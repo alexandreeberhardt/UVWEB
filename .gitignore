@@ -31,3 +31,9 @@ logs/
 dist/
 build/
 coverage/
+
+# Frontend (React/Vite/CRA)
+front/node_modules/
+front/dist/
+front/build/
+front/.env*
