@@ -4,6 +4,8 @@ const { PrismaClient } = require('@prisma/client');
 const fastify = Fastify({ logger: true });
 const prisma = new PrismaClient();
 
+fastify.register(require('@fastify/cors'), { origin: '*' });
+
 fastify.get('/tests', async (request, reply) => {
   const tests = await prisma.test.findMany();
   return tests;
