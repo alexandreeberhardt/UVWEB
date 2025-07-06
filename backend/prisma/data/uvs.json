@@ -1,0 +1,7 @@
+[
+  { "code_uv": "UV01", "titre": "Informatique Générale", "categorie": "TM", "ects": 6, "actif": true, "fise": false },
+  { "code_uv": "UV02", "titre": "Mathématiques Discrètes", "categorie": "CS", "ects": 5, "actif": true, "fise": false },
+  { "code_uv": "UV03", "titre": "Physique 1", "categorie": "ME", "ects": 4, "actif": true, "fise": false },
+  { "code_uv": "UV04", "titre": "Anglais", "categorie": "LV", "ects": 3, "actif": false, "fise": false },
+  { "code_uv": "UV05", "titre": "Algorithmique", "categorie": "CS", "ects": 5, "actif": true, "fise": false }
+]

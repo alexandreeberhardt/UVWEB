@@ -1,0 +1,7 @@
+[
+  { "code_uv": "UV01", "id_semestre": "P24", "id_responsable": "R01" },
+  { "code_uv": "UV02", "id_semestre": "A24", "id_responsable": "R02" },
+  { "code_uv": "UV03", "id_semestre": "P25", "id_responsable": "R03" },
+  { "code_uv": "UV04", "id_semestre": "A25", "id_responsable": "R04" },
+  { "code_uv": "UV05", "id_semestre": "A25", "id_responsable": "R05" }
+]

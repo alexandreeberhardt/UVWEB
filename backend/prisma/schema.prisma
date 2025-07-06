@@ -1,0 +1,105 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model uv {
+  code_uv     String        @id
+  titre       String
+  categorie   String
+  ects        Int
+  actif       Boolean
+  fise        Boolean
+
+  assurers       assurer[]
+  statistiques   statistiques[]
+  evaluations    evaluation[]
+  avis           avis[]
+  documents      document[]
+}
+
+model semestre {
+  id_semestre   String        @id
+  periode       String
+
+  assurers       assurer[]
+  statistiques   statistiques[]
+  evaluations    evaluation[]
+  avis           avis[]
+  documents      document[]
+}
+
+model responsable {
+  id_responsable   String      @id
+  nom              String
+  prenom           String
+
+  assurers         assurer[]
+}
+
+model assurer {
+  code_uv        String
+  id_semestre    String
+  id_responsable String
+
+  uv             uv           @relation(fields: [code_uv], references: [code_uv])
+  semestre       semestre     @relation(fields: [id_semestre], references: [id_semestre])
+  responsable    responsable  @relation(fields: [id_responsable], references: [id_responsable])
+
+  @@id([code_uv, id_semestre, id_responsable])
+}
+
+model statistiques {
+  id_stat       Int      @id @default(autoincrement())
+  taux_reussite Int
+
+  code_uv       String
+  id_semestre   String
+
+  uv            uv        @relation(fields: [code_uv], references: [code_uv])
+  semestre      semestre  @relation(fields: [id_semestre], references: [id_semestre])
+}
+
+model evaluation {
+  id_evaluation    Int      @id @default(autoincrement())
+  critere          Int
+  libelle_critere  String
+  note             Int
+
+  code_uv          String
+  id_semestre      String
+
+  uv               uv        @relation(fields: [code_uv], references: [code_uv])
+  semestre         semestre  @relation(fields: [id_semestre], references: [id_semestre])
+}
+
+model avis {
+  id_avis      Int      @id @default(autoincrement())
+  contenu      String
+  auteur       String
+  date         DateTime
+
+  code_uv      String
+  id_semestre  String
+
+  uv           uv        @relation(fields: [code_uv], references: [code_uv])
+  semestre     semestre  @relation(fields: [id_semestre], references: [id_semestre])
+}
+
+model document {
+  id_doc        Int      @id @default(autoincrement())
+  nom           String
+  type          String
+  url           String
+  date_ajout    DateTime
+
+  code_uv       String
+  id_semestre   String
+
+  uv            uv        @relation(fields: [code_uv], references: [code_uv])
+  semestre      semestre  @relation(fields: [id_semestre], references: [id_semestre])
+}

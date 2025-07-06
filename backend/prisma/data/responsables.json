@@ -1,0 +1,7 @@
+[
+  { "id_responsable": "R01", "nom": "Dupont", "prenom": "Alice" },
+  { "id_responsable": "R02", "nom": "Martin", "prenom": "Pierre" },
+  { "id_responsable": "R03", "nom": "Nguyen", "prenom": "Sophie" },
+  { "id_responsable": "R04", "nom": "Bernard", "prenom": "Lucas" },
+  { "id_responsable": "R05", "nom": "Lefevre", "prenom": "Emma" }
+]

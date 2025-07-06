@@ -1,0 +1,7 @@
+[
+  { "taux_reussite": 82, "code_uv": "UV01", "id_semestre": "P24" },
+  { "taux_reussite": 75, "code_uv": "UV02", "id_semestre": "A24" },
+  { "taux_reussite": 68, "code_uv": "UV03", "id_semestre": "P25" },
+  { "taux_reussite": 90, "code_uv": "UV04", "id_semestre": "A25" },
+  { "taux_reussite": 77, "code_uv": "UV05", "id_semestre": "A25" }
+]
