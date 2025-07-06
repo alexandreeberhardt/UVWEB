@@ -1,71 +1,104 @@
 # UVWEB
 
-Projet Node.js basé sur **Fastify**, **Prisma** et **PostgreSQL**.
+UVWEB is a Node.js project powered by **Fastify**, **Prisma**, and **PostgreSQL**.
 
-## 🚀 Objectif
+## 🚀 Purpose
 
-UVWEB est un catalogue des cours de l'UTC centralisant toutes les informations (Taux de réussite, avis etc)
+UVWEB serves as a centralized course catalog for UTC, aggregating detailed information about each course—including success rates, student feedback, and more.
 
-## 🛠️ Stack technique
+---
 
-- Node.js
-- Fastify
-- Prisma ORM
-- PostgreSQL
+## 🛠️ Tech Stack
 
-## ⚡ Installation & Lancement
+* **Node.js**
+* **Fastify**
+* **Prisma ORM**
+* **PostgreSQL**
 
-1. **Cloner le repo**
-```bash
-   git clone https://github.com/alexandreeberhardt/UVWEB.git
-   cd UVWEB
-```
+---
 
-2. **Installer les dépendances**
+## ⚡ Installation & Setup
+
+### 1. Clone the repository
 
 ```bash
-    npm install
+git clone https://github.com/alexandreeberhardt/UVWEB.git
+cd UVWEB
 ```
 
-3. **Configurer la base de données**
+### 2. Install dependencies
 
-* Crée un fichier `.env` à la racine :
-
-```
-    DATABASE_URL="postgresql://<utilisateur>:<motdepasse>@localhost:5432/<nom_de_la_db>"
-```
-
-4. **Créer la base et faire les migrations Prisma**
+For the backend:
 
 ```bash
-    npx prisma migrate dev --name init
+cd backend
+npm install
 ```
 
-5. **Lancer le serveur**
+For the frontend:
 
 ```bash
-    npm run dev
+cd ../frontend
+npm install
 ```
 
-ou
+### 3. Set up the PostgreSQL database
+
+* Create a PostgreSQL database instance locally or on your server of choice.
+* Obtain your database credentials (`user`, `password`, `database_name`).
+* Copy the `.env.example` file to `.env` in the **backend** directory and update it with your credentials:
+
+```
+DATABASE_URL="postgresql://<user>:<password>@localhost:5432/<database_name>"
+```
+
+### 4. Initialize the database and Prisma
+
+From the **backend** directory, run:
 
 ```bash
-    node index.js
+npx prisma generate
+npx prisma migrate dev
+npx prisma db seed
+npx prisma studio
 ```
 
-## 🧩 Endpoints
+* `prisma studio` is optional; it provides a web interface for exploring and editing your database.
 
+### 5. Start the servers
+
+* **Backend:**
+
+  ```bash
+  cd backend
+  npm run dev
+  ```
+
+* **Frontend:**
+
+  ```bash
+  cd frontend
+  npm run dev
+  ```
 
 ## 💡 Notes
 
-* Prisma lit les variables d’environnement dans `.env`.
-* Pour ajouter/modifier la base de données, modifie `prisma/schema.prisma` puis relance `npx prisma migrate dev`.
+* Prisma reads environment variables from the `.env` file (located at the root of the **backend** directory).
 
-## 📦 Scripts utiles
+* To modify the database schema, edit `prisma/schema.prisma` and re-run:
 
-* `npm run dev` : démarre le serveur en mode développement
-* `npx prisma studio` : interface web pour explorer/modifier la BDD
+  ```bash
+  npx prisma migrate dev
+  ```
+  
+* Useful scripts:
 
-## 📄 Licence
+  * `npm run dev`: Start the server in development mode
+  * `npx prisma studio`: Launch the Prisma web studio
 
-MIT
+---
+
+## 📄 License
+
+GPLv3
+
