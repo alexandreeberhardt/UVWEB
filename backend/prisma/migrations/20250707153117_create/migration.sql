@@ -1,73 +1,3 @@
-/*
-  Warnings:
-
-  - You are about to drop the `Assurer` table. If the table is not empty, all the data it contains will be lost.
-  - You are about to drop the `Avis` table. If the table is not empty, all the data it contains will be lost.
-  - You are about to drop the `Document` table. If the table is not empty, all the data it contains will be lost.
-  - You are about to drop the `Evaluation` table. If the table is not empty, all the data it contains will be lost.
-  - You are about to drop the `Responsable` table. If the table is not empty, all the data it contains will be lost.
-  - You are about to drop the `Semestre` table. If the table is not empty, all the data it contains will be lost.
-  - You are about to drop the `Statistiques` table. If the table is not empty, all the data it contains will be lost.
-  - You are about to drop the `UV` table. If the table is not empty, all the data it contains will be lost.
-
-*/
--- DropForeignKey
-ALTER TABLE "Assurer" DROP CONSTRAINT "Assurer_Code_UV_fkey";
-
--- DropForeignKey
-ALTER TABLE "Assurer" DROP CONSTRAINT "Assurer_Id_Responsable_fkey";
-
--- DropForeignKey
-ALTER TABLE "Assurer" DROP CONSTRAINT "Assurer_Id_Semestre_fkey";
-
--- DropForeignKey
-ALTER TABLE "Avis" DROP CONSTRAINT "Avis_Code_UV_fkey";
-
--- DropForeignKey
-ALTER TABLE "Avis" DROP CONSTRAINT "Avis_Id_Semestre_fkey";
-
--- DropForeignKey
-ALTER TABLE "Document" DROP CONSTRAINT "Document_Code_UV_fkey";
-
--- DropForeignKey
-ALTER TABLE "Document" DROP CONSTRAINT "Document_Id_Semestre_fkey";
-
--- DropForeignKey
-ALTER TABLE "Evaluation" DROP CONSTRAINT "Evaluation_Code_UV_fkey";
-
--- DropForeignKey
-ALTER TABLE "Evaluation" DROP CONSTRAINT "Evaluation_Id_Semestre_fkey";
-
--- DropForeignKey
-ALTER TABLE "Statistiques" DROP CONSTRAINT "Statistiques_Code_UV_fkey";
-
--- DropForeignKey
-ALTER TABLE "Statistiques" DROP CONSTRAINT "Statistiques_Id_Semestre_fkey";
-
--- DropTable
-DROP TABLE "Assurer";
-
--- DropTable
-DROP TABLE "Avis";
-
--- DropTable
-DROP TABLE "Document";
-
--- DropTable
-DROP TABLE "Evaluation";
-
--- DropTable
-DROP TABLE "Responsable";
-
--- DropTable
-DROP TABLE "Semestre";
-
--- DropTable
-DROP TABLE "Statistiques";
-
--- DropTable
-DROP TABLE "UV";
-
 -- CreateTable
 CREATE TABLE "uv" (
     "code_uv" TEXT NOT NULL,
@@ -75,6 +5,7 @@ CREATE TABLE "uv" (
     "categorie" TEXT NOT NULL,
     "ects" INTEGER NOT NULL,
     "actif" BOOLEAN NOT NULL,
+    "fise" BOOLEAN NOT NULL,
 
     CONSTRAINT "uv_pkey" PRIMARY KEY ("code_uv")
 );
@@ -139,19 +70,6 @@ CREATE TABLE "avis" (
     CONSTRAINT "avis_pkey" PRIMARY KEY ("id_avis")
 );
 
--- CreateTable
-CREATE TABLE "document" (
-    "id_doc" SERIAL NOT NULL,
-    "nom" TEXT NOT NULL,
-    "type" TEXT NOT NULL,
-    "url" TEXT NOT NULL,
-    "date_ajout" TIMESTAMP(3) NOT NULL,
-    "code_uv" TEXT NOT NULL,
-    "id_semestre" TEXT NOT NULL,
-
-    CONSTRAINT "document_pkey" PRIMARY KEY ("id_doc")
-);
-
 -- AddForeignKey
 ALTER TABLE "assurer" ADD CONSTRAINT "assurer_code_uv_fkey" FOREIGN KEY ("code_uv") REFERENCES "uv"("code_uv") ON DELETE RESTRICT ON UPDATE CASCADE;
 
@@ -178,9 +96,3 @@ ALTER TABLE "avis" ADD CONSTRAINT "avis_code_uv_fkey" FOREIGN KEY ("code_uv") RE
 
 -- AddForeignKey
 ALTER TABLE "avis" ADD CONSTRAINT "avis_id_semestre_fkey" FOREIGN KEY ("id_semestre") REFERENCES "semestre"("id_semestre") ON DELETE RESTRICT ON UPDATE CASCADE;
-
--- AddForeignKey
-ALTER TABLE "document" ADD CONSTRAINT "document_code_uv_fkey" FOREIGN KEY ("code_uv") REFERENCES "uv"("code_uv") ON DELETE RESTRICT ON UPDATE CASCADE;
-
--- AddForeignKey
-ALTER TABLE "document" ADD CONSTRAINT "document_id_semestre_fkey" FOREIGN KEY ("id_semestre") REFERENCES "semestre"("id_semestre") ON DELETE RESTRICT ON UPDATE CASCADE;

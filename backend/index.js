@@ -67,7 +67,6 @@ fastify.get('/uvs/:code_uv/details', async (req, reply) => {
       evaluations: true,
       statistiques: true,
       avis: true,
-      documents: true
     }
   });
   if (!uv) {

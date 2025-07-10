@@ -1,7 +1,2062 @@
 [
-  { "code_uv": "UV01", "id_semestre": "P24", "id_responsable": "R01" },
-  { "code_uv": "UV02", "id_semestre": "A24", "id_responsable": "R02" },
-  { "code_uv": "UV03", "id_semestre": "P25", "id_responsable": "R03" },
-  { "code_uv": "UV04", "id_semestre": "A25", "id_responsable": "R04" },
-  { "code_uv": "UV05", "id_semestre": "A25", "id_responsable": "R05" }
+  {
+    "code_uv": "AC01",
+    "id_semestre": "A24",
+    "id_responsable": "M._AHMAD_EL_HAJJ"
+  },
+  {
+    "code_uv": "AC02",
+    "id_semestre": "A24",
+    "id_responsable": "M._AHMED_LOUNIS"
+  },
+  {
+    "code_uv": "AC03",
+    "id_semestre": "A24",
+    "id_responsable": "M._ALEXANDRE_VU"
+  },
+  {
+    "code_uv": "AC05",
+    "id_semestre": "A24",
+    "id_responsable": "MME_SOLÈNE_MOREAU"
+  },
+  {
+    "code_uv": "AI01",
+    "id_semestre": "A24",
+    "id_responsable": "M._AZIZ_MOUKRIM"
+  },
+  {
+    "code_uv": "AI03",
+    "id_semestre": "A24",
+    "id_responsable": "M._MOHAMED_SALLAK"
+  },
+  {
+    "code_uv": "AI04",
+    "id_semestre": "A24",
+    "id_responsable": "M._BORISLAV_VIDOLOV"
+  },
+  {
+    "code_uv": "AI05",
+    "id_semestre": "A24",
+    "id_responsable": "M._ABDELMADJID_BOUABDALLAH"
+  },
+  {
+    "code_uv": "AI09",
+    "id_semestre": "A24",
+    "id_responsable": "M._AZIZ_MOUKRIM"
+  },
+  {
+    "code_uv": "AI10",
+    "id_semestre": "A24",
+    "id_responsable": "M._AZIZ_MOUKRIM"
+  },
+  {
+    "code_uv": "AI13",
+    "id_semestre": "A24",
+    "id_responsable": "M._AHMED_LOUNIS"
+  },
+  {
+    "code_uv": "AI14",
+    "id_semestre": "A24",
+    "id_responsable": "M._ABDELMADJID_BOUABDALLAH"
+  },
+  {
+    "code_uv": "AI15",
+    "id_semestre": "A24",
+    "id_responsable": "MME_GHADA_JABER"
+  },
+  {
+    "code_uv": "AI22",
+    "id_semestre": "A24",
+    "id_responsable": "M._ANTOINE_JOUGLET"
+  },
+  {
+    "code_uv": "AI29",
+    "id_semestre": "A24",
+    "id_responsable": "M._WALTER_SCHÖN"
+  },
+  {
+    "code_uv": "AI30",
+    "id_semestre": "A24",
+    "id_responsable": "M._SYLVAIN_LAGRUE"
+  },
+  {
+    "code_uv": "AI32",
+    "id_semestre": "A24",
+    "id_responsable": "M._LOUNIS_ADOUANE"
+  },
+  {
+    "code_uv": "AI34",
+    "id_semestre": "A24",
+    "id_responsable": "M._LOUNIS_ADOUANE"
+  },
+  {
+    "code_uv": "AI35",
+    "id_semestre": "A24",
+    "id_responsable": "M._MARC_SHAWKY"
+  },
+  {
+    "code_uv": "AI36",
+    "id_semestre": "A24",
+    "id_responsable": "M._PHILIPPE_BONNIFAIT"
+  },
+  {
+    "code_uv": "AI37",
+    "id_semestre": "A24",
+    "id_responsable": "MME_GHADA_JABER"
+  },
+  {
+    "code_uv": "AI38",
+    "id_semestre": "A24",
+    "id_responsable": "MME_INDIRA_THOUVENIN"
+  },
+  {
+    "code_uv": "AM01",
+    "id_semestre": "A24",
+    "id_responsable": "M._MATTHIEU_BRICOGNE-CUIGNIÈRES"
+  },
+  {
+    "code_uv": "AM02",
+    "id_semestre": "A24",
+    "id_responsable": "M._FLORENT_FORESTIER"
+  },
+  {
+    "code_uv": "AM03",
+    "id_semestre": "A24",
+    "id_responsable": "M._ÉTIENNE_ARNOULT"
+  },
+  {
+    "code_uv": "AM04",
+    "id_semestre": "A24",
+    "id_responsable": "M._PIERRE-EMMANUEL_MAZERAN"
+  },
+  {
+    "code_uv": "AM08",
+    "id_semestre": "A24",
+    "id_responsable": "M._ABDELLATIF_OUAHSINE"
+  },
+  {
+    "code_uv": "AM11",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRÉDÉRIC_DRUESNE"
+  },
+  {
+    "code_uv": "AM14",
+    "id_semestre": "A24",
+    "id_responsable": "M._KAMEL_KHELLIL"
+  },
+  {
+    "code_uv": "AM15",
+    "id_semestre": "A24",
+    "id_responsable": "M._JÉRÔME_BLANC"
+  },
+  {
+    "code_uv": "AM20",
+    "id_semestre": "A24",
+    "id_responsable": "M._AHMED_NASSIM_BOUDAOUD"
+  },
+  {
+    "code_uv": "AM21",
+    "id_semestre": "A24",
+    "id_responsable": "MME_AMÉLIE_DURUPT"
+  },
+  {
+    "code_uv": "AM22",
+    "id_semestre": "A24",
+    "id_responsable": "MME_JOANNA_DAABOUL"
+  },
+  {
+    "code_uv": "AM23",
+    "id_semestre": "A24",
+    "id_responsable": "M._JULIEN_LE_DUIGOU"
+  },
+  {
+    "code_uv": "AM25",
+    "id_semestre": "A24",
+    "id_responsable": "M._ÉTIENNE_ARNOULT"
+  },
+  {
+    "code_uv": "AM27",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRÉDÉRIC_LAMARQUE"
+  },
+  {
+    "code_uv": "AM42",
+    "id_semestre": "A24",
+    "id_responsable": "M._NICOLAS_DAUCHEZ"
+  },
+  {
+    "code_uv": "AM43",
+    "id_semestre": "A24",
+    "id_responsable": "M._JEAN-DANIEL_CHAZOT"
+  },
+  {
+    "code_uv": "AOS1",
+    "id_semestre": "A24",
+    "id_responsable": "M._BENJAMIN_QUOST"
+  },
+  {
+    "code_uv": "AOS2",
+    "id_semestre": "A24",
+    "id_responsable": "M._SYLVAIN_ROUSSEAU"
+  },
+  {
+    "code_uv": "AOS3",
+    "id_semestre": "A24",
+    "id_responsable": "M._AZIZ_MOUKRIM"
+  },
+  {
+    "code_uv": "AOS4",
+    "id_semestre": "A24",
+    "id_responsable": "M._VU_LINH_NGUYEN"
+  },
+  {
+    "code_uv": "AOS5",
+    "id_semestre": "A24",
+    "id_responsable": "M._DRITAN_NACE"
+  },
+  {
+    "code_uv": "AOS6",
+    "id_semestre": "A24",
+    "id_responsable": "M._JEAN-BENOIST_LEGER"
+  },
+  {
+    "code_uv": "AP00",
+    "id_semestre": "A24",
+    "id_responsable": "M._FABRICE_LOCMENT"
+  },
+  {
+    "code_uv": "AP51",
+    "id_semestre": "A24",
+    "id_responsable": "M._EMMANUEL_DORE"
+  },
+  {
+    "code_uv": "AP52",
+    "id_semestre": "A24",
+    "id_responsable": "M._LUDOVIC_CAUVIN"
+  },
+  {
+    "code_uv": "AP53",
+    "id_semestre": "A24",
+    "id_responsable": "M._BENOÎT_EYNARD"
+  },
+  {
+    "code_uv": "AR03",
+    "id_semestre": "A24",
+    "id_responsable": "MLLE_BARBARA_OLSZEWSKA"
+  },
+  {
+    "code_uv": "AR04",
+    "id_semestre": "A24",
+    "id_responsable": "MME_VALERIE_VALLEE"
+  },
+  {
+    "code_uv": "ARS1",
+    "id_semestre": "A24",
+    "id_responsable": "MME_REINE_TALJ-KFOURY"
+  },
+  {
+    "code_uv": "ARS2",
+    "id_semestre": "A24",
+    "id_responsable": "M._JULIEN_MOREAU"
+  },
+  {
+    "code_uv": "ARS3",
+    "id_semestre": "A24",
+    "id_responsable": "M._ABDELMADJID_BOUABDALLAH"
+  },
+  {
+    "code_uv": "ARS4",
+    "id_semestre": "A24",
+    "id_responsable": "M._PHILIPPE_BONNIFAIT"
+  },
+  {
+    "code_uv": "ARS5",
+    "id_semestre": "A24",
+    "id_responsable": "M._PEDRO_CASTILLO-GARCIA"
+  },
+  {
+    "code_uv": "AV01",
+    "id_semestre": "A24",
+    "id_responsable": "M._ESTEBAN_ZUNIGA_DOMINGUEZ"
+  },
+  {
+    "code_uv": "BA03",
+    "id_semestre": "A24",
+    "id_responsable": "M._FABIEN_LAMARQUE"
+  },
+  {
+    "code_uv": "BA04",
+    "id_semestre": "A24",
+    "id_responsable": "M._FABRICE_LOCMENT"
+  },
+  {
+    "code_uv": "BA05",
+    "id_semestre": "A24",
+    "id_responsable": "MME_MANUELA_SECHILARIU"
+  },
+  {
+    "code_uv": "BA06",
+    "id_semestre": "A24",
+    "id_responsable": "M._FABIEN_LAMARQUE"
+  },
+  {
+    "code_uv": "BA08",
+    "id_semestre": "A24",
+    "id_responsable": "M._GILLES_MOREL"
+  },
+  {
+    "code_uv": "BA10",
+    "id_semestre": "A24",
+    "id_responsable": "M._BERK_CELIK"
+  },
+  {
+    "code_uv": "BC01",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRÉDÉRIC_HUET"
+  },
+  {
+    "code_uv": "BG01",
+    "id_semestre": "A24",
+    "id_responsable": "MME_SANDRINE_MORANDAT"
+  },
+  {
+    "code_uv": "BG02",
+    "id_semestre": "A24",
+    "id_responsable": "MME_BÉRANGÈRE_AVALLE-BIHAN"
+  },
+  {
+    "code_uv": "BG03",
+    "id_semestre": "A24",
+    "id_responsable": "MME_SANDRINE_MORANDAT"
+  },
+  {
+    "code_uv": "BG04",
+    "id_semestre": "A24",
+    "id_responsable": "MME_SANDRINE_MORANDAT"
+  },
+  {
+    "code_uv": "BG05",
+    "id_semestre": "A24",
+    "id_responsable": "MME_YOLANDE_PERRIN"
+  },
+  {
+    "code_uv": "BG07",
+    "id_semestre": "A24",
+    "id_responsable": "MME_IRENE_MAFFUCCI"
+  },
+  {
+    "code_uv": "BG08",
+    "id_semestre": "A24",
+    "id_responsable": "MME_SONIA_RIPPA"
+  },
+  {
+    "code_uv": "BG09",
+    "id_semestre": "A24",
+    "id_responsable": "M._ADRIAN_TRONCOSO-PONCE"
+  },
+  {
+    "code_uv": "BL10",
+    "id_semestre": "A24",
+    "id_responsable": "M._KARSTEN_HAUPT"
+  },
+  {
+    "code_uv": "BL16",
+    "id_semestre": "A24",
+    "id_responsable": "M._ANTOINE_FAYEULLE"
+  },
+  {
+    "code_uv": "BL17",
+    "id_semestre": "A24",
+    "id_responsable": "M._KARIM_EL_KIRAT-CHATEL"
+  },
+  {
+    "code_uv": "BL20",
+    "id_semestre": "A24",
+    "id_responsable": "MME_SÉVERINE_PADIOLLEAU-LEFEVRE"
+  },
+  {
+    "code_uv": "BM03",
+    "id_semestre": "A24",
+    "id_responsable": "M._SOFIANE_BOUDAOUD"
+  },
+  {
+    "code_uv": "BM04",
+    "id_semestre": "A24",
+    "id_responsable": "M._MIRCEA-DAN_ISTRATE"
+  },
+  {
+    "code_uv": "BM05",
+    "id_semestre": "A24",
+    "id_responsable": "M._JEAN-FRANÇOIS_GROSSET"
+  },
+  {
+    "code_uv": "BM06",
+    "id_semestre": "A24",
+    "id_responsable": "M._IMAD_RIDA"
+  },
+  {
+    "code_uv": "BM07",
+    "id_semestre": "A24",
+    "id_responsable": "MME_MURIELLE_DUFRESNE"
+  },
+  {
+    "code_uv": "BMI0",
+    "id_semestre": "A24",
+    "id_responsable": "MME_SABINE_BENSAMOUN"
+  },
+  {
+    "code_uv": "BT03",
+    "id_semestre": "A24",
+    "id_responsable": "MME_MURIEL_VAYSSADE"
+  },
+  {
+    "code_uv": "BT07",
+    "id_semestre": "A24",
+    "id_responsable": "MME_CLAIRE_ROSSI"
+  },
+  {
+    "code_uv": "BT09",
+    "id_semestre": "A24",
+    "id_responsable": "MLLE_MIRIAN_TIAKI_KANEIWA_KUBO"
+  },
+  {
+    "code_uv": "CF04",
+    "id_semestre": "A24",
+    "id_responsable": "M._EMMANUEL_LEFRANÇOIS"
+  },
+  {
+    "code_uv": "CH00",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ELISABETH_VAN_HECKE"
+  },
+  {
+    "code_uv": "CH01",
+    "id_semestre": "A24",
+    "id_responsable": "M._KHASHAYAR_SALEH"
+  },
+  {
+    "code_uv": "CH12",
+    "id_semestre": "A24",
+    "id_responsable": "MME_SANDRINE_MORANDAT"
+  },
+  {
+    "code_uv": "CM04",
+    "id_semestre": "A24",
+    "id_responsable": "M._AÏSSA_OULD_DRIS"
+  },
+  {
+    "code_uv": "CM05",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRANÇOIS_GOMEZ"
+  },
+  {
+    "code_uv": "CM06",
+    "id_semestre": "A24",
+    "id_responsable": "M._KHASHAYAR_SALEH"
+  },
+  {
+    "code_uv": "CM11",
+    "id_semestre": "A24",
+    "id_responsable": "M._OLIVIER_SCHOEFS"
+  },
+  {
+    "code_uv": "CM12",
+    "id_semestre": "A24",
+    "id_responsable": "M._JAMAL_BELKOUCH"
+  },
+  {
+    "code_uv": "CM13",
+    "id_semestre": "A24",
+    "id_responsable": "M._ERWANN_GUÉNIN"
+  },
+  {
+    "code_uv": "CM71",
+    "id_semestre": "A24",
+    "id_responsable": "M._OLIVIER_BALS"
+  },
+  {
+    "code_uv": "DF03",
+    "id_semestre": "A24",
+    "id_responsable": "M._AHMED_NASSIM_BOUDAOUD"
+  },
+  {
+    "code_uv": "DI01",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ANNE_MEULEAU"
+  },
+  {
+    "code_uv": "DI02",
+    "id_semestre": "A24",
+    "id_responsable": "M._EMMANUEL_CORBASSON"
+  },
+  {
+    "code_uv": "DI04",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ANNE_MEULEAU"
+  },
+  {
+    "code_uv": "DI05",
+    "id_semestre": "A24",
+    "id_responsable": "M._NICOLAS_SALZMANN"
+  },
+  {
+    "code_uv": "DI08",
+    "id_semestre": "A24",
+    "id_responsable": "M._EMMANUEL_CORBASSON"
+  },
+  {
+    "code_uv": "DS01",
+    "id_semestre": "A24",
+    "id_responsable": "M._ARTHUR_GIVOIS"
+  },
+  {
+    "code_uv": "ED01",
+    "id_semestre": "A24",
+    "id_responsable": "MME_NATHALIE_DARENE"
+  },
+  {
+    "code_uv": "ED02",
+    "id_semestre": "A24",
+    "id_responsable": "MME_NATHALIE_DARENE"
+  },
+  {
+    "code_uv": "ED04",
+    "id_semestre": "A24",
+    "id_responsable": "MME_NATHALIE_DARENE"
+  },
+  {
+    "code_uv": "EG01",
+    "id_semestre": "A24",
+    "id_responsable": "M._ROMUALD_PERINET"
+  },
+  {
+    "code_uv": "EI02",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRÉDÉRIC_HUET"
+  },
+  {
+    "code_uv": "EI03",
+    "id_semestre": "A24",
+    "id_responsable": "M._HADRIEN_COUTANT"
+  },
+  {
+    "code_uv": "EI04",
+    "id_semestre": "A24",
+    "id_responsable": "MME_VÉRONIQUE_MISSERI"
+  },
+  {
+    "code_uv": "EI05",
+    "id_semestre": "A24",
+    "id_responsable": "M._MARTIN_MORGENEYER"
+  },
+  {
+    "code_uv": "EN21",
+    "id_semestre": "A24",
+    "id_responsable": "M._CHRISTOPHE_FORGEZ"
+  },
+  {
+    "code_uv": "EP2A1",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2A2",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2A3",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2B1",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2B2",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2B3",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2C1",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2C2",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2C3",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2D2",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2E1",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2E2",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2F1",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2G1",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2G2",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2I1",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2I2",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2N2",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EP2N3",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "EV02",
+    "id_semestre": "A24",
+    "id_responsable": "M._MARTIN_MORGENEYER"
+  },
+  {
+    "code_uv": "EV03",
+    "id_semestre": "A24",
+    "id_responsable": "MME_EDVINA_LAMY"
+  },
+  {
+    "code_uv": "FQ01",
+    "id_semestre": "A24",
+    "id_responsable": "M._JEAN-MARC_PICARD"
+  },
+  {
+    "code_uv": "FQ04",
+    "id_semestre": "A24",
+    "id_responsable": "MME_LYNDA_BOUFENAR"
+  },
+  {
+    "code_uv": "GE10",
+    "id_semestre": "A24",
+    "id_responsable": "M._DAVID_FLACHER"
+  },
+  {
+    "code_uv": "GE13",
+    "id_semestre": "A24",
+    "id_responsable": "MME_CELINE_PIERDET"
+  },
+  {
+    "code_uv": "GE15",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRÉDÉRIC_HUET"
+  },
+  {
+    "code_uv": "GE20",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRÉDÉRIC_HUET"
+  },
+  {
+    "code_uv": "GE21",
+    "id_semestre": "A24",
+    "id_responsable": "M._PASCAL_JOLLIVET-COURTOIS"
+  },
+  {
+    "code_uv": "GE22",
+    "id_semestre": "A24",
+    "id_responsable": "M._MORGAN_VILLETTE"
+  },
+  {
+    "code_uv": "GE25",
+    "id_semestre": "A24",
+    "id_responsable": "MME_PASCALE_BACHMANN"
+  },
+  {
+    "code_uv": "GE26",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRÉDÉRIC_HUET"
+  },
+  {
+    "code_uv": "GE27",
+    "id_semestre": "A24",
+    "id_responsable": "MME_CHRISTINE_DIVRY-GROFF"
+  },
+  {
+    "code_uv": "GE28",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRÉDÉRIC_HUET"
+  },
+  {
+    "code_uv": "GE36",
+    "id_semestre": "A24",
+    "id_responsable": "M._DIDIER_SERRANT"
+  },
+  {
+    "code_uv": "GE37",
+    "id_semestre": "A24",
+    "id_responsable": "M._MANUEL_MAJADA"
+  },
+  {
+    "code_uv": "GE38",
+    "id_semestre": "A24",
+    "id_responsable": "M._PASCAL_ALBERTI"
+  },
+  {
+    "code_uv": "GE39",
+    "id_semestre": "A24",
+    "id_responsable": "MME_NATHALIE_DARENE"
+  },
+  {
+    "code_uv": "GE40",
+    "id_semestre": "A24",
+    "id_responsable": "M._THIERRY_GIDEL"
+  },
+  {
+    "code_uv": "GPF0",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ALLA_NESTERENKO"
+  },
+  {
+    "code_uv": "GPF1",
+    "id_semestre": "A24",
+    "id_responsable": "MME_AUDREY_BERTAULD-DRELICH"
+  },
+  {
+    "code_uv": "GPF2",
+    "id_semestre": "A24",
+    "id_responsable": "M._ERWANN_GUÉNIN"
+  },
+  {
+    "code_uv": "GPF3",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ELISABETH_VAN_HECKE"
+  },
+  {
+    "code_uv": "GPF4",
+    "id_semestre": "A24",
+    "id_responsable": "MME_AUDREY_BERTAULD-DRELICH"
+  },
+  {
+    "code_uv": "GPF5",
+    "id_semestre": "A24",
+    "id_responsable": "MME_LAYELLA_ZIYANI"
+  },
+  {
+    "code_uv": "HE01",
+    "id_semestre": "A24",
+    "id_responsable": "M._PIERRE_STEINER"
+  },
+  {
+    "code_uv": "HE03",
+    "id_semestre": "A24",
+    "id_responsable": "M._BRUNO_BACHIMONT"
+  },
+  {
+    "code_uv": "HE10",
+    "id_semestre": "A24",
+    "id_responsable": "M._CHARLES_LENAY"
+  },
+  {
+    "code_uv": "HT01",
+    "id_semestre": "A24",
+    "id_responsable": "M._GUILLAUME_CARNINO"
+  },
+  {
+    "code_uv": "HT04",
+    "id_semestre": "A24",
+    "id_responsable": "M._GUILLAUME_CARNINO"
+  },
+  {
+    "code_uv": "HT05",
+    "id_semestre": "A24",
+    "id_responsable": "M._NICOLAS_SALZMANN"
+  },
+  {
+    "code_uv": "IA01",
+    "id_semestre": "A24",
+    "id_responsable": "MME_MARIE-HÉLÈNE_ABEL"
+  },
+  {
+    "code_uv": "IA03",
+    "id_semestre": "A24",
+    "id_responsable": "MME_MARIE-HÉLÈNE_ABEL"
+  },
+  {
+    "code_uv": "IA04",
+    "id_semestre": "A24",
+    "id_responsable": "M._SYLVAIN_LAGRUE"
+  },
+  {
+    "code_uv": "IC05",
+    "id_semestre": "A24",
+    "id_responsable": "MLLE_ANNE_BELLON"
+  },
+  {
+    "code_uv": "IC06",
+    "id_semestre": "A24",
+    "id_responsable": "M._NICOLAS_ESPOSITO"
+  },
+  {
+    "code_uv": "ICX1",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ELÉONORE_SAS"
+  },
+  {
+    "code_uv": "ICX2",
+    "id_semestre": "A24",
+    "id_responsable": "M._FLORENT_LEVILLAIN"
+  },
+  {
+    "code_uv": "ICX3",
+    "id_semestre": "A24",
+    "id_responsable": "M._OLIVIER_GAPENNE"
+  },
+  {
+    "code_uv": "ICX6",
+    "id_semestre": "A24",
+    "id_responsable": "M._FLORENT_LEVILLAIN"
+  },
+  {
+    "code_uv": "IDC1",
+    "id_semestre": "A24",
+    "id_responsable": "M._JEAN-MARC_BERENGUIER"
+  },
+  {
+    "code_uv": "IDC2",
+    "id_semestre": "A24",
+    "id_responsable": "M._POL-MANOEL_FELAN"
+  },
+  {
+    "code_uv": "IDC3",
+    "id_semestre": "A24",
+    "id_responsable": "M._JEAN-MATTHIEU_PROT"
+  },
+  {
+    "code_uv": "IDC5",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ISABELLE_CLAUDE"
+  },
+  {
+    "code_uv": "IDCA",
+    "id_semestre": "A24",
+    "id_responsable": "MME_JULIE_FOLLET"
+  },
+  {
+    "code_uv": "IDCB",
+    "id_semestre": "A24",
+    "id_responsable": "MME_JULIE_FOLLET"
+  },
+  {
+    "code_uv": "IDCC",
+    "id_semestre": "A24",
+    "id_responsable": "MME_JULIE_FOLLET"
+  },
+  {
+    "code_uv": "IDCD",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ISABELLE_CLAUDE"
+  },
+  {
+    "code_uv": "IDCE",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ISABELLE_CLAUDE"
+  },
+  {
+    "code_uv": "IDCF",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ISABELLE_CLAUDE"
+  },
+  {
+    "code_uv": "IDCG",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ISABELLE_CLAUDE"
+  },
+  {
+    "code_uv": "IDCH",
+    "id_semestre": "A24",
+    "id_responsable": "M._ALAIN_DONADEY"
+  },
+  {
+    "code_uv": "IDCI",
+    "id_semestre": "A24",
+    "id_responsable": "M._JEAN-MATTHIEU_PROT"
+  },
+  {
+    "code_uv": "IDCJ",
+    "id_semestre": "A24",
+    "id_responsable": "M._MIRCEA-DAN_ISTRATE"
+  },
+  {
+    "code_uv": "IDCK",
+    "id_semestre": "A24",
+    "id_responsable": "M._JEAN-MATTHIEU_PROT"
+  },
+  {
+    "code_uv": "IDCL",
+    "id_semestre": "A24",
+    "id_responsable": "M._JEAN-MATTHIEU_PROT"
+  },
+  {
+    "code_uv": "INF1",
+    "id_semestre": "A24",
+    "id_responsable": "M._PHILIPPE_TRIGANO"
+  },
+  {
+    "code_uv": "INF2",
+    "id_semestre": "A24",
+    "id_responsable": "M._HENRY_CLAISSE"
+  },
+  {
+    "code_uv": "IQ01",
+    "id_semestre": "A24",
+    "id_responsable": "M._WALTER_SCHÖN"
+  },
+  {
+    "code_uv": "IS00",
+    "id_semestre": "A24",
+    "id_responsable": "M._PIERRE_FEISSEL"
+  },
+  {
+    "code_uv": "IS02",
+    "id_semestre": "A24",
+    "id_responsable": "M._YACINE_BAOUCH"
+  },
+  {
+    "code_uv": "IS04",
+    "id_semestre": "A24",
+    "id_responsable": "M._HUGUES_CHOPLIN"
+  },
+  {
+    "code_uv": "IS10",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRÉDÉRIC_HUET"
+  },
+  {
+    "code_uv": "ISC0",
+    "id_semestre": "A24",
+    "id_responsable": "M._FLORIAN_DE_VUYST"
+  },
+  {
+    "code_uv": "ISC1",
+    "id_semestre": "A24",
+    "id_responsable": "M._SALIM_BOUZEBDA"
+  },
+  {
+    "code_uv": "ISC2",
+    "id_semestre": "A24",
+    "id_responsable": "MME_MIRAINE_DAVILA_FELIPE"
+  },
+  {
+    "code_uv": "ISC3",
+    "id_semestre": "A24",
+    "id_responsable": "M._FLORIAN_DE_VUYST"
+  },
+  {
+    "code_uv": "ISC4",
+    "id_semestre": "A24",
+    "id_responsable": "M._PHILIPPE_BONNIFAIT"
+  },
+  {
+    "code_uv": "ISC5",
+    "id_semestre": "A24",
+    "id_responsable": "M._MOHAMED_SALLAK"
+  },
+  {
+    "code_uv": "ISCA",
+    "id_semestre": "A24",
+    "id_responsable": "M._MOHAMED_SALLAK"
+  },
+  {
+    "code_uv": "ISCB",
+    "id_semestre": "A24",
+    "id_responsable": "M._KARIM_EL_KIRAT-CHATEL"
+  },
+  {
+    "code_uv": "ISCC",
+    "id_semestre": "A24",
+    "id_responsable": "M._THIERRY_DENOEUX"
+  },
+  {
+    "code_uv": "ISCD",
+    "id_semestre": "A24",
+    "id_responsable": "M._DRITAN_NACE"
+  },
+  {
+    "code_uv": "ISCE",
+    "id_semestre": "A24",
+    "id_responsable": "M._SOFIANE_BOUDAOUD"
+  },
+  {
+    "code_uv": "ISCF",
+    "id_semestre": "A24",
+    "id_responsable": "M._LAURENT_PETIT"
+  },
+  {
+    "code_uv": "ISCG",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRÉDÉRIC_MARIN"
+  },
+  {
+    "code_uv": "ISCI",
+    "id_semestre": "A24",
+    "id_responsable": "M._AHMED_NASSIM_BOUDAOUD"
+  },
+  {
+    "code_uv": "ISCJ",
+    "id_semestre": "A24",
+    "id_responsable": "M._MOHAMED_SALLAK"
+  },
+  {
+    "code_uv": "LA00",
+    "id_semestre": "A24",
+    "id_responsable": "MME_NORTRUD_MATHILDE_KIHM"
+  },
+  {
+    "code_uv": "LA01",
+    "id_semestre": "A24",
+    "id_responsable": "MME_JOCELYNE_BOCAGE"
+  },
+  {
+    "code_uv": "LA02",
+    "id_semestre": "A24",
+    "id_responsable": "MME_SABINE_HENSEL"
+  },
+  {
+    "code_uv": "LA03",
+    "id_semestre": "A24",
+    "id_responsable": "MME_JOCELYNE_BOCAGE"
+  },
+  {
+    "code_uv": "LA04",
+    "id_semestre": "A24",
+    "id_responsable": "MME_JOCELYNE_BOCAGE"
+  },
+  {
+    "code_uv": "LA11",
+    "id_semestre": "A24",
+    "id_responsable": "MME_VALÉRIE_BOUCHARDON"
+  },
+  {
+    "code_uv": "LA12",
+    "id_semestre": "A24",
+    "id_responsable": "MME_CORALIE_GRIFFON"
+  },
+  {
+    "code_uv": "LA13",
+    "id_semestre": "A24",
+    "id_responsable": "MME_VALÉRIE_BOUCHARDON"
+  },
+  {
+    "code_uv": "LA14",
+    "id_semestre": "A24",
+    "id_responsable": "MME_JULIE_VALADE"
+  },
+  {
+    "code_uv": "LA20",
+    "id_semestre": "A24",
+    "id_responsable": "M._VICTOR_DE_LEON_SANCHEZ"
+  },
+  {
+    "code_uv": "LA21",
+    "id_semestre": "A24",
+    "id_responsable": "M._VICTOR_DE_LEON_SANCHEZ"
+  },
+  {
+    "code_uv": "LA22",
+    "id_semestre": "A24",
+    "id_responsable": "MME_MARIA_DEL_MAR_EGEA_RECHE"
+  },
+  {
+    "code_uv": "LA23",
+    "id_semestre": "A24",
+    "id_responsable": "MME_MARIA_FATIMA_SANCHEZ_PANIAGUA"
+  },
+  {
+    "code_uv": "LA24",
+    "id_semestre": "A24",
+    "id_responsable": "MME_MARIA_DEL_MAR_EGEA_RECHE"
+  },
+  {
+    "code_uv": "LA91",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ANNA_WIACEK-LE_VERGER"
+  },
+  {
+    "code_uv": "LA92",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ANNA_WIACEK-LE_VERGER"
+  },
+  {
+    "code_uv": "LA93",
+    "id_semestre": "A24",
+    "id_responsable": "MME_CAROLE_LEFRANCOIS-YASUDA"
+  },
+  {
+    "code_uv": "LA94",
+    "id_semestre": "A24",
+    "id_responsable": "MME_CAROLE_LEFRANCOIS-YASUDA"
+  },
+  {
+    "code_uv": "LA95",
+    "id_semestre": "A24",
+    "id_responsable": "MME_CAROLE_LEFRANCOIS-YASUDA"
+  },
+  {
+    "code_uv": "LB14",
+    "id_semestre": "A24",
+    "id_responsable": "MME_THERESA_LEWIS-GHEORGHE"
+  },
+  {
+    "code_uv": "LB24",
+    "id_semestre": "A24",
+    "id_responsable": "MME_MARIA_FATIMA_SANCHEZ_PANIAGUA"
+  },
+  {
+    "code_uv": "LC14",
+    "id_semestre": "A24",
+    "id_responsable": "M._ROWAN_GROSVENOR"
+  },
+  {
+    "code_uv": "LC72",
+    "id_semestre": "A24",
+    "id_responsable": "M._ROWAN_GROSVENOR"
+  },
+  {
+    "code_uv": "LC73",
+    "id_semestre": "A24",
+    "id_responsable": "M._ROWAN_GROSVENOR"
+  },
+  {
+    "code_uv": "LD14",
+    "id_semestre": "A24",
+    "id_responsable": "MME_CORALIE_GRIFFON"
+  },
+  {
+    "code_uv": "LG30",
+    "id_semestre": "A24",
+    "id_responsable": "MME_VALERIE_ROY"
+  },
+  {
+    "code_uv": "LG31",
+    "id_semestre": "A24",
+    "id_responsable": "MME_YUKA_KITO-NEUBRONNER"
+  },
+  {
+    "code_uv": "LG32",
+    "id_semestre": "A24",
+    "id_responsable": "MME_AKANE_DELBECQ_NISHII"
+  },
+  {
+    "code_uv": "LG33",
+    "id_semestre": "A24",
+    "id_responsable": "MME_AKANE_DELBECQ_NISHII"
+  },
+  {
+    "code_uv": "LG40",
+    "id_semestre": "A24",
+    "id_responsable": "MME_VANESSA_BLAY"
+  },
+  {
+    "code_uv": "LG41",
+    "id_semestre": "A24",
+    "id_responsable": "MME_VANESSA_BLAY"
+  },
+  {
+    "code_uv": "LG42",
+    "id_semestre": "A24",
+    "id_responsable": "MME_FATIMA_FERNANDES"
+  },
+  {
+    "code_uv": "LG50",
+    "id_semestre": "A24",
+    "id_responsable": "MME_SYLVIE_QUATROCIS"
+  },
+  {
+    "code_uv": "LG51",
+    "id_semestre": "A24",
+    "id_responsable": "MME_STEFANIA_ROSSI"
+  },
+  {
+    "code_uv": "LG52",
+    "id_semestre": "A24",
+    "id_responsable": "MME_STEFANIA_ROSSI"
+  },
+  {
+    "code_uv": "LG53",
+    "id_semestre": "A24",
+    "id_responsable": "MME_STEFANIA_ROSSI"
+  },
+  {
+    "code_uv": "LG60",
+    "id_semestre": "A24",
+    "id_responsable": "MME_WENZHU_FAURIES"
+  },
+  {
+    "code_uv": "LG61",
+    "id_semestre": "A24",
+    "id_responsable": "MME_WENZHU_FAURIES"
+  },
+  {
+    "code_uv": "LG62",
+    "id_semestre": "A24",
+    "id_responsable": "MME_XIA_LIU"
+  },
+  {
+    "code_uv": "LG63",
+    "id_semestre": "A24",
+    "id_responsable": "MME_XIA_LIU"
+  },
+  {
+    "code_uv": "LH01",
+    "id_semestre": "A24",
+    "id_responsable": "MME_JOCELYNE_BOCAGE"
+  },
+  {
+    "code_uv": "LH12",
+    "id_semestre": "A24",
+    "id_responsable": "MME_CORALIE_GRIFFON"
+  },
+  {
+    "code_uv": "LH13",
+    "id_semestre": "A24",
+    "id_responsable": "MME_VALÉRIE_BOUCHARDON"
+  },
+  {
+    "code_uv": "LH14",
+    "id_semestre": "A24",
+    "id_responsable": "M._ROWAN_GROSVENOR"
+  },
+  {
+    "code_uv": "LH15",
+    "id_semestre": "A24",
+    "id_responsable": "MME_JULIE_VALADE"
+  },
+  {
+    "code_uv": "LH16",
+    "id_semestre": "A24",
+    "id_responsable": "MME_JULIE_VALADE"
+  },
+  {
+    "code_uv": "LH17",
+    "id_semestre": "A24",
+    "id_responsable": "MME_JULIE_VALADE"
+  },
+  {
+    "code_uv": "LH18",
+    "id_semestre": "A24",
+    "id_responsable": "MME_JULIE_VALADE"
+  },
+  {
+    "code_uv": "LH30",
+    "id_semestre": "A24",
+    "id_responsable": "MME_YUKA_KITO-NEUBRONNER"
+  },
+  {
+    "code_uv": "LH40",
+    "id_semestre": "A24",
+    "id_responsable": "MME_VANESSA_BLAY"
+  },
+  {
+    "code_uv": "LH50",
+    "id_semestre": "A24",
+    "id_responsable": "MME_SYLVIE_QUATROCIS"
+  },
+  {
+    "code_uv": "LH60",
+    "id_semestre": "A24",
+    "id_responsable": "MME_WENZHU_FAURIES"
+  },
+  {
+    "code_uv": "LO21",
+    "id_semestre": "A24",
+    "id_responsable": "M._ANTOINE_JOUGLET"
+  },
+  {
+    "code_uv": "LO23",
+    "id_semestre": "A24",
+    "id_responsable": "M._BENJAMIN_LUSSIER"
+  },
+  {
+    "code_uv": "MA09",
+    "id_semestre": "A24",
+    "id_responsable": "M._FLORIAN_DE_VUYST"
+  },
+  {
+    "code_uv": "MC02",
+    "id_semestre": "A24",
+    "id_responsable": "M._LUIS_ALEJANDRO_OSPINA_VARGAS"
+  },
+  {
+    "code_uv": "MC06",
+    "id_semestre": "A24",
+    "id_responsable": "M._CHRISTOPHE_FORGEZ"
+  },
+  {
+    "code_uv": "MC08",
+    "id_semestre": "A24",
+    "id_responsable": "M._STÉPHANE_VIVIER"
+  },
+  {
+    "code_uv": "MI01",
+    "id_semestre": "A24",
+    "id_responsable": "M._MARC_SHAWKY"
+  },
+  {
+    "code_uv": "MI12",
+    "id_semestre": "A24",
+    "id_responsable": "M._MARC_SHAWKY"
+  },
+  {
+    "code_uv": "ML01",
+    "id_semestre": "A24",
+    "id_responsable": "M._CYPRIEN_GILET"
+  },
+  {
+    "code_uv": "MP03",
+    "id_semestre": "A24",
+    "id_responsable": "MME_JOANNA_DAABOUL"
+  },
+  {
+    "code_uv": "MQ01",
+    "id_semestre": "A24",
+    "id_responsable": "M._MOHAMED_RACHIK"
+  },
+  {
+    "code_uv": "MQ03",
+    "id_semestre": "A24",
+    "id_responsable": "M._ÉTIENNE_ARNOULT"
+  },
+  {
+    "code_uv": "MQ06",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRÉDÉRIC_DRUESNE"
+  },
+  {
+    "code_uv": "MQ12",
+    "id_semestre": "A24",
+    "id_responsable": "MME_SALIMA_BOUVIER"
+  },
+  {
+    "code_uv": "MQ13",
+    "id_semestre": "A24",
+    "id_responsable": "M._ZOHEIR_ABOURA"
+  },
+  {
+    "code_uv": "MQ16",
+    "id_semestre": "A24",
+    "id_responsable": "M._HOCINE_KEBIR"
+  },
+  {
+    "code_uv": "MQ17",
+    "id_semestre": "A24",
+    "id_responsable": "M._PHILIPPE_REVEL"
+  },
+  {
+    "code_uv": "MQ20",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ELENA_CUTRI"
+  },
+  {
+    "code_uv": "MS01",
+    "id_semestre": "A24",
+    "id_responsable": "MME_MURIELLE_DUFRESNE"
+  },
+  {
+    "code_uv": "MS03",
+    "id_semestre": "A24",
+    "id_responsable": "M._NICOLAS_DAUCHEZ"
+  },
+  {
+    "code_uv": "MT01",
+    "id_semestre": "A24",
+    "id_responsable": "MME_NATHALIE_CANDELIER"
+  },
+  {
+    "code_uv": "MT02",
+    "id_semestre": "A24",
+    "id_responsable": "MME_FATEN_JELASSI"
+  },
+  {
+    "code_uv": "MT03",
+    "id_semestre": "A24",
+    "id_responsable": "MME_RIM_FAYAD"
+  },
+  {
+    "code_uv": "MT09",
+    "id_semestre": "A24",
+    "id_responsable": "M._FLORIAN_DE_VUYST"
+  },
+  {
+    "code_uv": "MT11",
+    "id_semestre": "A24",
+    "id_responsable": "M._SALIM_BOUZEBDA"
+  },
+  {
+    "code_uv": "MT12",
+    "id_semestre": "A24",
+    "id_responsable": "M._AHMAD_EL_HAJJ"
+  },
+  {
+    "code_uv": "MT1R",
+    "id_semestre": "A24",
+    "id_responsable": "MME_NATHALIE_CANDELIER"
+  },
+  {
+    "code_uv": "MT22",
+    "id_semestre": "A24",
+    "id_responsable": "MME_FREDERIQUE_LE_LOUËR"
+  },
+  {
+    "code_uv": "MT23",
+    "id_semestre": "A24",
+    "id_responsable": "MME_VERONIQUE_HEDOU"
+  },
+  {
+    "code_uv": "MT2R",
+    "id_semestre": "A24",
+    "id_responsable": "MME_FATEN_JELASSI"
+  },
+  {
+    "code_uv": "MT33",
+    "id_semestre": "A24",
+    "id_responsable": "M._VINCENT_ROBIN"
+  },
+  {
+    "code_uv": "MT36",
+    "id_semestre": "A24",
+    "id_responsable": "M._VINCENT_ROBIN"
+  },
+  {
+    "code_uv": "MT3R",
+    "id_semestre": "A24",
+    "id_responsable": "MME_RIM_FAYAD"
+  },
+  {
+    "code_uv": "MTX2",
+    "id_semestre": "A24",
+    "id_responsable": "MME_FATEN_JELASSI"
+  },
+  {
+    "code_uv": "MU02",
+    "id_semestre": "A24",
+    "id_responsable": "MME_CAROLE_LEFRANCOIS-YASUDA"
+  },
+  {
+    "code_uv": "MU03",
+    "id_semestre": "A24",
+    "id_responsable": "MME_CAROLE_LEFRANCOIS-YASUDA"
+  },
+  {
+    "code_uv": "NF02",
+    "id_semestre": "A24",
+    "id_responsable": "M._HANI_AL_HAJJAR"
+  },
+  {
+    "code_uv": "NF04",
+    "id_semestre": "A24",
+    "id_responsable": "M._MOHAMED_RACHIK"
+  },
+  {
+    "code_uv": "NF05",
+    "id_semestre": "A24",
+    "id_responsable": "M._PHILIPPE_TRIGANO"
+  },
+  {
+    "code_uv": "NF16",
+    "id_semestre": "A24",
+    "id_responsable": "M._AZIZ_MOUKRIM"
+  },
+  {
+    "code_uv": "NF18",
+    "id_semestre": "A24",
+    "id_responsable": "M._ALESSANDRO_CORREA-VICTORINO"
+  },
+  {
+    "code_uv": "NF22",
+    "id_semestre": "A24",
+    "id_responsable": "M._SOFIANE_BOUDAOUD"
+  },
+  {
+    "code_uv": "NF92",
+    "id_semestre": "A24",
+    "id_responsable": "M._JEAN-PAUL_BOUFFLET"
+  },
+  {
+    "code_uv": "NF93",
+    "id_semestre": "A24",
+    "id_responsable": "M._ANTOINE_JOUGLET"
+  },
+  {
+    "code_uv": "NP90",
+    "id_semestre": "A24",
+    "id_responsable": "M._ABDELLATIF_OUAHSINE"
+  },
+  {
+    "code_uv": "PH01",
+    "id_semestre": "A24",
+    "id_responsable": "M._PIERRE_STEINER"
+  },
+  {
+    "code_uv": "PH03",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRANCOIS-XAVIER_GUCHET"
+  },
+  {
+    "code_uv": "PH04",
+    "id_semestre": "A24",
+    "id_responsable": "MLLE_ANNE_BELLON"
+  },
+  {
+    "code_uv": "PH09",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRANCOIS-XAVIER_GUCHET"
+  },
+  {
+    "code_uv": "PR00",
+    "id_semestre": "A24",
+    "id_responsable": "M._BRUNO_RAMOND"
+  },
+  {
+    "code_uv": "PS04",
+    "id_semestre": "A24",
+    "id_responsable": "M._AÏSSA_OULD_DRIS"
+  },
+  {
+    "code_uv": "PS12",
+    "id_semestre": "A24",
+    "id_responsable": "M._NICOLAS_DAUCHEZ"
+  },
+  {
+    "code_uv": "PS13",
+    "id_semestre": "A24",
+    "id_responsable": "M._JEAN-DANIEL_CHAZOT"
+  },
+  {
+    "code_uv": "PS15",
+    "id_semestre": "A24",
+    "id_responsable": "M._AMMAR_BENSAKHRIA"
+  },
+  {
+    "code_uv": "PS21",
+    "id_semestre": "A24",
+    "id_responsable": "M._PIERRE_FEISSEL"
+  },
+  {
+    "code_uv": "PS22",
+    "id_semestre": "A24",
+    "id_responsable": "M._NICOLAS_BUIRON"
+  },
+  {
+    "code_uv": "PS23",
+    "id_semestre": "A24",
+    "id_responsable": "M._PATRICK_LANCELEUR"
+  },
+  {
+    "code_uv": "PS66",
+    "id_semestre": "A24",
+    "id_responsable": "M._PATRICK_LANCELEUR"
+  },
+  {
+    "code_uv": "PS90",
+    "id_semestre": "A24",
+    "id_responsable": "M._OLIVIER_SCHOEFS"
+  },
+  {
+    "code_uv": "PS93",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRÉDÉRIC_LAMARQUE"
+  },
+  {
+    "code_uv": "PS94",
+    "id_semestre": "A24",
+    "id_responsable": "M._NICOLAS_PATIN"
+  },
+  {
+    "code_uv": "PVR2",
+    "id_semestre": "A24",
+    "id_responsable": "M._ANTOINE_FAYEULLE"
+  },
+  {
+    "code_uv": "PVR5",
+    "id_semestre": "A24",
+    "id_responsable": "MME_NADIA_BOUSSETTA"
+  },
+  {
+    "code_uv": "PVR6",
+    "id_semestre": "A24",
+    "id_responsable": "M._PHILIPPE_SAJET"
+  },
+  {
+    "code_uv": "PVR7",
+    "id_semestre": "A24",
+    "id_responsable": "M._MOURAD_HAZI"
+  },
+  {
+    "code_uv": "PVR8",
+    "id_semestre": "A24",
+    "id_responsable": "M._OLIVIER_SCHOEFS"
+  },
+  {
+    "code_uv": "RO05",
+    "id_semestre": "A24",
+    "id_responsable": "M._NIKOLAOS_LIMNIOS"
+  },
+  {
+    "code_uv": "RO06",
+    "id_semestre": "A24",
+    "id_responsable": "M._AZIZ_MOUKRIM"
+  },
+  {
+    "code_uv": "RV01",
+    "id_semestre": "A24",
+    "id_responsable": "MME_INDIRA_THOUVENIN"
+  },
+  {
+    "code_uv": "SA12",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ISABELLE_CAILLEAU"
+  },
+  {
+    "code_uv": "SC11",
+    "id_semestre": "A24",
+    "id_responsable": "M._OLIVIER_GAPENNE"
+  },
+  {
+    "code_uv": "SC12",
+    "id_semestre": "A24",
+    "id_responsable": "M._CHARLES_LENAY"
+  },
+  {
+    "code_uv": "SC21",
+    "id_semestre": "A24",
+    "id_responsable": "M._VINCENZO_RAIMONDI"
+  },
+  {
+    "code_uv": "SC22",
+    "id_semestre": "A24",
+    "id_responsable": "MLLE_DELPHINE_CHEDALEUX"
+  },
+  {
+    "code_uv": "SC23",
+    "id_semestre": "A24",
+    "id_responsable": "MLLE_BARBARA_OLSZEWSKA"
+  },
+  {
+    "code_uv": "SC25",
+    "id_semestre": "A24",
+    "id_responsable": "M._FLORENT_LEVILLAIN"
+  },
+  {
+    "code_uv": "SF01",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ANNA_WIACEK-LE_VERGER"
+  },
+  {
+    "code_uv": "SH01",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRÉDÉRIC_HUET"
+  },
+  {
+    "code_uv": "SH03",
+    "id_semestre": "A24",
+    "id_responsable": "M._MANUEL_MAJADA"
+  },
+  {
+    "code_uv": "SH06",
+    "id_semestre": "A24",
+    "id_responsable": "M._MANUEL_MAJADA"
+  },
+  {
+    "code_uv": "SH07",
+    "id_semestre": "A24",
+    "id_responsable": "M._BRUNO_RAMOND"
+  },
+  {
+    "code_uv": "SH40",
+    "id_semestre": "A24",
+    "id_responsable": "M._JOHAN_DESBONNET"
+  },
+  {
+    "code_uv": "SI01",
+    "id_semestre": "A24",
+    "id_responsable": "M._AURÉLIEN_BERANGER"
+  },
+  {
+    "code_uv": "SI02",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ISABELLE_CAILLEAU"
+  },
+  {
+    "code_uv": "SI11",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ISABELLE_CAILLEAU"
+  },
+  {
+    "code_uv": "SI14",
+    "id_semestre": "A24",
+    "id_responsable": "MME_THERESA_LEWIS-GHEORGHE"
+  },
+  {
+    "code_uv": "SI22",
+    "id_semestre": "A24",
+    "id_responsable": "MLLE_DELPHINE_CHEDALEUX"
+  },
+  {
+    "code_uv": "SI24",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ISABELLE_CAILLEAU"
+  },
+  {
+    "code_uv": "SI28",
+    "id_semestre": "A24",
+    "id_responsable": "M._SERGE_BOUCHARDON"
+  },
+  {
+    "code_uv": "SL00",
+    "id_semestre": "A24",
+    "id_responsable": "MME_LYNNE_FOREST"
+  },
+  {
+    "code_uv": "SMC4",
+    "id_semestre": "A24",
+    "id_responsable": "M._PIOTR_BREITKOPF"
+  },
+  {
+    "code_uv": "SMC5",
+    "id_semestre": "A24",
+    "id_responsable": "MME_DELPHINE_BRANCHERIE"
+  },
+  {
+    "code_uv": "SMT1",
+    "id_semestre": "A24",
+    "id_responsable": "M._BENOÎT_EYNARD"
+  },
+  {
+    "code_uv": "SMT2",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRÉDÉRIC_LAMARQUE"
+  },
+  {
+    "code_uv": "SMT5",
+    "id_semestre": "A24",
+    "id_responsable": "M._STÉPHANE_VIVIER"
+  },
+  {
+    "code_uv": "SO04",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRÉDÉRIC_HUET"
+  },
+  {
+    "code_uv": "SO05",
+    "id_semestre": "A24",
+    "id_responsable": "M._MICHAEL_VICENTE"
+  },
+  {
+    "code_uv": "SP01",
+    "id_semestre": "A24",
+    "id_responsable": "M._ARNAUD_VANNICATTE"
+  },
+  {
+    "code_uv": "SP02",
+    "id_semestre": "A24",
+    "id_responsable": "M._ARNAUD_VANNICATTE"
+  },
+  {
+    "code_uv": "SP22",
+    "id_semestre": "A24",
+    "id_responsable": "M._MARC_MONETTI"
+  },
+  {
+    "code_uv": "SR01",
+    "id_semestre": "A24",
+    "id_responsable": "MME_GHADA_JABER"
+  },
+  {
+    "code_uv": "SR04",
+    "id_semestre": "A24",
+    "id_responsable": "M._ABDELMADJID_BOUABDALLAH"
+  },
+  {
+    "code_uv": "SR07",
+    "id_semestre": "A24",
+    "id_responsable": "MME_GHADA_JABER"
+  },
+  {
+    "code_uv": "SR08",
+    "id_semestre": "A24",
+    "id_responsable": "M._ABDELMADJID_BOUABDALLAH"
+  },
+  {
+    "code_uv": "SU01",
+    "id_semestre": "A24",
+    "id_responsable": "M._MAXIME_HACHETTE"
+  },
+  {
+    "code_uv": "SV01",
+    "id_semestre": "A24",
+    "id_responsable": "MME_MURIELLE_DUFRESNE"
+  },
+  {
+    "code_uv": "SY01",
+    "id_semestre": "A24",
+    "id_responsable": "MME_MIRAINE_DAVILA_FELIPE"
+  },
+  {
+    "code_uv": "SY02",
+    "id_semestre": "A24",
+    "id_responsable": "MME_GHISLAINE_GAYRAUD"
+  },
+  {
+    "code_uv": "SY03",
+    "id_semestre": "A24",
+    "id_responsable": "M._NICOLAS_DAMAY"
+  },
+  {
+    "code_uv": "SY05",
+    "id_semestre": "A24",
+    "id_responsable": "M._MIKEL_LETURIA"
+  },
+  {
+    "code_uv": "SY06",
+    "id_semestre": "A24",
+    "id_responsable": "MME_SOLÈNE_MOREAU"
+  },
+  {
+    "code_uv": "SY08",
+    "id_semestre": "A24",
+    "id_responsable": "M._BORISLAV_VIDOLOV"
+  },
+  {
+    "code_uv": "SY10",
+    "id_semestre": "A24",
+    "id_responsable": "M._ZYED_ZALILA"
+  },
+  {
+    "code_uv": "SY14",
+    "id_semestre": "A24",
+    "id_responsable": "M._LOUNIS_ADOUANE"
+  },
+  {
+    "code_uv": "SY19",
+    "id_semestre": "A24",
+    "id_responsable": "M._THIERRY_DENOEUX"
+  },
+  {
+    "code_uv": "SY27",
+    "id_semestre": "A24",
+    "id_responsable": "M._PHILIPPE_BONNIFAIT"
+  },
+  {
+    "code_uv": "SY28",
+    "id_semestre": "A24",
+    "id_responsable": "M._LOUNIS_ADOUANE"
+  },
+  {
+    "code_uv": "SY98",
+    "id_semestre": "A24",
+    "id_responsable": "M._MAMADOU_KONE"
+  },
+  {
+    "code_uv": "SY99",
+    "id_semestre": "A24",
+    "id_responsable": "MME_RIM_FAYAD"
+  },
+  {
+    "code_uv": "TA02",
+    "id_semestre": "A24",
+    "id_responsable": "M._KHASHAYAR_SALEH"
+  },
+  {
+    "code_uv": "TF01",
+    "id_semestre": "A24",
+    "id_responsable": "MME_ANNE_LE_GOFF"
+  },
+  {
+    "code_uv": "TF06",
+    "id_semestre": "A24",
+    "id_responsable": "M._MOURAD_HAZI"
+  },
+  {
+    "code_uv": "TF11",
+    "id_semestre": "A24",
+    "id_responsable": "MME_NADIA_BOUSSETTA"
+  },
+  {
+    "code_uv": "TH02",
+    "id_semestre": "A24",
+    "id_responsable": "M._AMMAR_BENSAKHRIA"
+  },
+  {
+    "code_uv": "TH04",
+    "id_semestre": "A24",
+    "id_responsable": "M._MOURAD_HAZI"
+  },
+  {
+    "code_uv": "TM02",
+    "id_semestre": "A24",
+    "id_responsable": "M._BRUNO_RAMOND"
+  },
+  {
+    "code_uv": "TN01",
+    "id_semestre": "A24",
+    "id_responsable": "M._HOCINE_KEBIR"
+  },
+  {
+    "code_uv": "TN02",
+    "id_semestre": "A24",
+    "id_responsable": "M._KEVIN_LEPETIT"
+  },
+  {
+    "code_uv": "TN03",
+    "id_semestre": "A24",
+    "id_responsable": "M._JÉRÔME_BLANC"
+  },
+  {
+    "code_uv": "TN04",
+    "id_semestre": "A24",
+    "id_responsable": "MME_MAGALI_BOSCH"
+  },
+  {
+    "code_uv": "TN06",
+    "id_semestre": "A24",
+    "id_responsable": "M._JEAN-LUC_DULONG"
+  },
+  {
+    "code_uv": "TN08",
+    "id_semestre": "A24",
+    "id_responsable": "M._EMMANUEL_CORBASSON"
+  },
+  {
+    "code_uv": "TN12",
+    "id_semestre": "A24",
+    "id_responsable": "M._JEAN-LUC_DULONG"
+  },
+  {
+    "code_uv": "TN14",
+    "id_semestre": "A24",
+    "id_responsable": "M._ÉRIC_NOPPE"
+  },
+  {
+    "code_uv": "TN20",
+    "id_semestre": "A24",
+    "id_responsable": "M._MATTHIEU_BRICOGNE-CUIGNIÈRES"
+  },
+  {
+    "code_uv": "TN21",
+    "id_semestre": "A24",
+    "id_responsable": "M._JULIEN_LE_DUIGOU"
+  },
+  {
+    "code_uv": "TN22",
+    "id_semestre": "A24",
+    "id_responsable": "M._KAMEL_KHELLIL"
+  },
+  {
+    "code_uv": "TN23",
+    "id_semestre": "A24",
+    "id_responsable": "M._JÉRÔME_BLANC"
+  },
+  {
+    "code_uv": "TN25",
+    "id_semestre": "A24",
+    "id_responsable": "M._HANI_AL_HAJJAR"
+  },
+  {
+    "code_uv": "TR91",
+    "id_semestre": "A24",
+    "id_responsable": "MLLE_CHLOE_ADIDI"
+  },
+  {
+    "code_uv": "TS02",
+    "id_semestre": "A24",
+    "id_responsable": "M._CHRISTOPHE_PROUST"
+  },
+  {
+    "code_uv": "TSN1",
+    "id_semestre": "A24",
+    "id_responsable": "M._FRÉDÉRIC_MARIN"
+  },
+  {
+    "code_uv": "TX00",
+    "id_semestre": "A24",
+    "id_responsable": "M._CLAUDE-OLIVIER_SARDE"
+  },
+  {
+    "code_uv": "TZ",
+    "id_semestre": "A24",
+    "id_responsable": "M._CLAUDE-OLIVIER_SARDE"
+  },
+  {
+    "code_uv": "UB02",
+    "id_semestre": "A24",
+    "id_responsable": "M._HIPOLITO_MARTELL_FLORES"
+  },
+  {
+    "code_uv": "UB09",
+    "id_semestre": "A24",
+    "id_responsable": "MME_NASSIMA_MOUHOUS-VOYNEAU"
+  },
+  {
+    "code_uv": "UR02",
+    "id_semestre": "A24",
+    "id_responsable": "M._EDUARD_ANTALUCA"
+  },
+  {
+    "code_uv": "UR03",
+    "id_semestre": "A24",
+    "id_responsable": "M._EDUARD_ANTALUCA"
+  },
+  {
+    "code_uv": "UR06",
+    "id_semestre": "A24",
+    "id_responsable": "MME_NATHALIE_MOLINES"
+  },
+  {
+    "code_uv": "UR07",
+    "id_semestre": "A24",
+    "id_responsable": "MME_NATHALIE_MOLINES"
+  },
+  {
+    "code_uv": "UXD2",
+    "id_semestre": "A24",
+    "id_responsable": "M._NICOLAS_ESPOSITO"
+  },
+  {
+    "code_uv": "WE01",
+    "id_semestre": "A24",
+    "id_responsable": "M._STÉPHANE_CROZAT"
+  }
 ]

@@ -1,7 +1,1 @@
-[
-  { "contenu": "Super UV, très enrichissante.", "auteur": "jdoe", "date": "2024-10-10T10:00:00Z", "code_uv": "UV01", "id_semestre": "P24" },
-  { "contenu": "Bonne organisation, mais beaucoup de travail.", "auteur": "asmith", "date": "2024-04-15T09:30:00Z", "code_uv": "UV02", "id_semestre": "A24" },
-  { "contenu": "Le prof explique bien.", "auteur": "bcharles", "date": "2025-09-21T08:20:00Z", "code_uv": "UV03", "id_semestre": "P25" },
-  { "contenu": "Trop théorique à mon goût.", "auteur": "mdupuis", "date": "2025-03-17T11:45:00Z", "code_uv": "UV04", "id_semestre": "A25" },
-  { "contenu": "UV parfaite pour progresser.", "auteur": "lpetit", "date": "2025-06-12T15:00:00Z", "code_uv": "UV05", "id_semestre": "A25" }
-]
+[]

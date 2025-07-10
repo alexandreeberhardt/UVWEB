@@ -19,7 +19,6 @@ model uv {
   statistiques   statistiques[]
   evaluations    evaluation[]
   avis           avis[]
-  documents      document[]
 }
 
 model semestre {
@@ -30,7 +29,6 @@ model semestre {
   statistiques   statistiques[]
   evaluations    evaluation[]
   avis           avis[]
-  documents      document[]
 }
 
 model responsable {
@@ -88,18 +86,4 @@ model avis {
 
   uv           uv        @relation(fields: [code_uv], references: [code_uv])
   semestre     semestre  @relation(fields: [id_semestre], references: [id_semestre])
-}
-
-model document {
-  id_doc        Int      @id @default(autoincrement())
-  nom           String
-  type          String
-  url           String
-  date_ajout    DateTime
-
-  code_uv       String
-  id_semestre   String
-
-  uv            uv        @relation(fields: [code_uv], references: [code_uv])
-  semestre      semestre  @relation(fields: [id_semestre], references: [id_semestre])
 }
