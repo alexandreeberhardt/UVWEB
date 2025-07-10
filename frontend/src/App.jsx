@@ -74,7 +74,7 @@ function UvDetails({ code_uv, onBack }) {
         {uv.evaluations.length === 0 && <li>Aucune</li>}
         {uv.evaluations.map(e =>
           <li key={e.id_evaluation}>
-            <b>{e.libelle_critere}</b> ({e.note}/5) – Semestre : {e.id_semestre}
+            <b>{e.libelle_critere}</b> ({e.note}/100) – Semestre : {e.id_semestre}
           </li>
         )}
       </ul>
@@ -102,15 +102,6 @@ function UvDetails({ code_uv, onBack }) {
       </ul>
       <hr />
 
-      <h2>Documents</h2>
-      <ul>
-        {uv.documents.length === 0 && <li>Aucun</li>}
-        {uv.documents.map(d =>
-          <li key={d.id_doc}>
-            <a href={d.url} target="_blank" rel="noreferrer">{d.nom}</a> ({d.type}) – Ajouté le {d.date_ajout.slice(0, 10)}
-          </li>
-        )}
-      </ul>
     </div>
   );
 }

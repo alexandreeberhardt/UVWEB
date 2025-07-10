@@ -1,7 +1,4866 @@
 [
-  { "code_uv": "UV01", "titre": "Informatique Générale", "categorie": "TM", "ects": 6, "actif": true, "fise": false },
-  { "code_uv": "UV02", "titre": "Mathématiques Discrètes", "categorie": "CS", "ects": 5, "actif": true, "fise": false },
-  { "code_uv": "UV03", "titre": "Physique 1", "categorie": "ME", "ects": 4, "actif": true, "fise": false },
-  { "code_uv": "UV04", "titre": "Anglais", "categorie": "LV", "ects": 3, "actif": false, "fise": false },
-  { "code_uv": "UV05", "titre": "Algorithmique", "categorie": "CS", "ects": 5, "actif": true, "fise": false }
+  {
+    "code_uv": "ED01",
+    "titre": "ECONOMIE (EDHEC)",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ED02",
+    "titre": "COMPTABILITÉ GÉNÉRALE (EDHEC)",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ED03",
+    "titre": "MARKETING (EDHEC)",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ED04",
+    "titre": "PRINCIPES DE LA FINANCE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ED05",
+    "titre": "BASES DE DONNÉES",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ED06",
+    "titre": "RECHERCHE OPÉRATIONNELLE",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ED07",
+    "titre": "RÉSEAUX (À L'EDHEC)",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ED08",
+    "titre": "SÉCURITÉ INFORMATIQUE (À L'EDHEC)",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IS00",
+    "titre": "INTRODUCTION AUX ENJEUX ENVIRONNEMENTAUX POUR L'INGÉNIEUR",
+    "categorie": "CS",
+    "ects": 2,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IS02",
+    "titre": "TECHNIQUES ET MÉTHODES D'ÉVALUATION ENVIRONNEMENTALE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MT01",
+    "titre": "SPÉCIALITÉ MATHÉMATIQUES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MT03",
+    "titre": "ALGÈBRE LINÉAIRE I",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MT22",
+    "titre": "FONCTIONS DE PLUSIEURS VARIABLES RÉELLES ET APPLICATIONS",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MT23",
+    "titre": "ALGÈBRE LINÉAIRE ET APPLICATIONS",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MT94",
+    "titre": "INTRODUCTION AUX MATHÉMATIQUES APPLIQUÉES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MT98",
+    "titre": "FONCTIONS DE PLUSIEURS VARIABLES",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MT99",
+    "titre": "ALGÈBRE LINÉAIRE",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MTX2",
+    "titre": "ANALYSE RÉELLE I",
+    "categorie": "CS",
+    "ects": 8,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "NF05",
+    "titre": "COMPÉTENCES NUMÉRIQUES",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "NF16",
+    "titre": "ALGORITHMIQUE ET STRUCTURE DE DONNÉES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "NF92",
+    "titre": "TRAITEMENT AUTOMATIQUE DE L'INFORMATION",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PR00",
+    "titre": "RÉALISATION DE PROJET",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PS66",
+    "titre": "MÉCANIQUE QUANTIQUE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY06",
+    "titre": "TRAITEMENT DU SIGNAL",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY10",
+    "titre": "MATHÉMATIQUES DU FLOU : CONCEPTS ET APPLICATIONS",
+    "categorie": "TM",
+    "ects": 7,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY98",
+    "titre": "INTRODUCTION AUX PROBABILITÉS",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY99",
+    "titre": "INTRODUCTION AUX STATISTIQUES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN04",
+    "titre": "RÉALISATION",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TX00",
+    "titre": "ÉTUDE EXPÉRIMENTALE",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TZ",
+    "titre": "ÉTUDE EXPÉRIMENTALE",
+    "categorie": "TM",
+    "ects": 0,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "AP00",
+    "titre": "ATELIER PROJET",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BA04",
+    "titre": "CONVERSION ET GESTION DES ÉNERGIES RENOUVELABLES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BA07",
+    "titre": "MODES OPÉRATOIRES DE LA CONSTRUCTION",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BL10",
+    "titre": "STRUCTURES ET PHYSICOCHIMIE DES MOLÉCULES BIOLOGIQUES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BL20",
+    "titre": "MÉTABOLISME ET PHYSIOLOGIE CELLULAIRE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BL22",
+    "titre": "MICROBIOLOGIE ET BIOLOGIE MOLÉCULAIRE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BL30",
+    "titre": "PHYSIOLOGIE DES SYSTÈMES INTÉGRÉS",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BL40",
+    "titre": "GÉNIE CELLULAIRE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BM01",
+    "titre": "INTRODUCTION À L'INSTRUMENTATION BIOMÉDICALE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BT09",
+    "titre": "INDUSTRIES AGRO-ALIMENTAIRES - QUALITÉS DE L'ALIMENT",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CM11",
+    "titre": "CHIMIE GÉNÉRALE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CM12",
+    "titre": "CHIMIE PHYSIQUE MINÉRALE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CM13",
+    "titre": "CHIMIE DES SUBSTANCES ORGANIQUES ET BIOLOGIQUES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "DI05",
+    "titre": "MÉTHODOLOGIE ET ANALYSE DE LA VALEUR",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "DI06",
+    "titre": "ANALYSE DES PRODUITS DE CONSOMMATION",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "EG01",
+    "titre": "ERGONOMIE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "FQ01",
+    "titre": "ÉCONOMIE GLOBALE ET MAÎTRISE DE LA QUALITÉ",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "FQ04",
+    "titre": "QUALITÉ ET EXIGENCES RÉGLEMENTAIRES EN GÉNIE BIOLOGIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "GE37",
+    "titre": "GESTION DE PROJET",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "HT06",
+    "titre": "MÉTHODOLOGIE & OUTILS D'INGÉNIERIE SOCIOTECHNIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IA01",
+    "titre": "INTELLIGENCE ARTIFICIELLE : REPRÉSENTATION",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IA02",
+    "titre": "RÉSOLUTION DE PROBLÈMES ET PROGRAMMATION LOGIQUE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IS21",
+    "titre": "EXPLORER LES POTENTIELS EN INGÉNIERIE SOUTENABLE D'UNE UV (CS)",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IS22",
+    "titre": "EXPLORER LES POTENTIELS EN INGÉNIERIE SOUTENABLE D'UNE UV (TM)",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "LO21",
+    "titre": "PROGRAMMATION ET CONCEPTION ORIENTÉES OBJET",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MI01",
+    "titre": "STRUCTURE D'UN CALCULATEUR",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ01",
+    "titre": "ÉLÉMENTS DE RÉSISTANCE DES MATÉRIAUX",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ17",
+    "titre": "INTRODUCTION AUX PROPRIÉTÉS MÉCANIQUES ET À L'INGÉNIERIE DES MATÉRIAUX",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ20",
+    "titre": "INTRODUCTION À LA MÉCANIQUE ET MÉCANIQUE DES MILIEUX CONTINUS",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MS01",
+    "titre": "MÉTHODES D'ANALYSE PHYSICO-CHIMIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MT02",
+    "titre": "ANALYSE RÉELLE I",
+    "categorie": "CS",
+    "ects": 8,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MT09",
+    "titre": "ANALYSE NUMÉRIQUE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MT11",
+    "titre": "RÉVISION D'ANALYSE ET D'ALGÈBRE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MT31",
+    "titre": "INTRODUCTION À LA LOGIQUE MATHÉMATIQUE",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MT33",
+    "titre": "ALGÈBRE : ENSEMBLES ET GROUPES",
+    "categorie": "CS",
+    "ects": 8,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MT37",
+    "titre": "LOGIQUES, QUELQUES APPROFONDISSEMENTS MATHÉMATIQUES ET PHILOSOPHIQUES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MT39",
+    "titre": "CALCUL FORMEL APPLIQUÉ",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "NF02",
+    "titre": "DU CIRCUIT INTÉGRÉ AU MICROPROCESSEUR",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "NF04",
+    "titre": "MODÉLISATION NUMÉRIQUE DES PROBLÈMES DE L'INGÉNIEUR",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "NF18",
+    "titre": "CONCEPTION DE BASES DE DONNÉES RELATIONNELLES ET NON RELATIONNELLES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "NF22",
+    "titre": "MICRO-ORDINATEURS ET APPLICATIONS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "NF93",
+    "titre": "FONDEMENTS SCIENTIFIQUES DE L'INFORMATIQUE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "NP90",
+    "titre": "NANO-PROJETS",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PS04",
+    "titre": "THERMODYNAMIQUE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PS21",
+    "titre": "MÉCANIQUE PHYSIQUE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PS22",
+    "titre": "DYNAMIQUE DES SYSTÈMES ET DES SOLIDES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PS23",
+    "titre": "ONDES ET ÉLECTROMAGNÉTISME",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PS24",
+    "titre": "STRUCTURE ET PROPRIÉTÉS PHYSIQUES DES MATÉRIAUX",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PS90",
+    "titre": "INTRODUCTION À LA MESURE",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PS93",
+    "titre": "OPTIQUE GÉOMÉTRIQUE",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PS94",
+    "titre": "ELECTRICITÉ",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "RO03",
+    "titre": "RECHERCHE OPÉRATIONNELLE, OPTIMISATION COMBINATOIRE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "RO05",
+    "titre": "MODÉLISATION DE PHÉNOMÈNES ALÉATOIRES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SP11",
+    "titre": "ADAPTATION BIOLOGIQUE À L'EXERCICE PHYSIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SR01",
+    "titre": "MAÎTRISE DES SYSTÈMES INFORMATIQUES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SR02",
+    "titre": "SYSTÈMES D'EXPLOITATION : DES CONCEPTS À LA PROGRAMMATION",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SU01",
+    "titre": "INTRODUCTION AUX SYSTÈMES URBAINS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SV01",
+    "titre": "DE LA BIOLOGIE GÉNÉRALE AUX BIOTECHNOLOGIES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SV02",
+    "titre": "INTRODUCTION AUX TECHNOLOGIES DE SANTÉ",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY01",
+    "titre": "ÉLÉMENTS DE PROBABILITÉS",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY02",
+    "titre": "MÉTHODES STATISTIQUES POUR L'INGÉNIEUR",
+    "categorie": "CS",
+    "ects": 7,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TF06",
+    "titre": "TRANSFERT DE CHALEUR",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TF11",
+    "titre": "INTRODUCTION AUX PHÉNOMÈNES DE TRANSFERT",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN01",
+    "titre": "ÉLÉMENTS DE DESSIN TECHNIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN02",
+    "titre": "INTRODUCTION À LA CONCEPTION MÉCANIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN03",
+    "titre": "FABRICATION MÉCANIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN06",
+    "titre": "TRANSMISSION DES EFFORTS EN MÉCANIQUE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TR91",
+    "titre": "TECHNIQUES DE RECHERCHE D'INFORMATION POUR L'INGÉNIEUR",
+    "categorie": "TM",
+    "ects": 2,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TS01",
+    "titre": "MAÎTRISE DES RISQUES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UB01",
+    "titre": "VOIRIE ET RÉSEAUX DIVERS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UB08",
+    "titre": "HYDROLOGIE URBAINE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UB10",
+    "titre": "THERMIQUE URBAINE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UR02",
+    "titre": "THÉORIES ET PRATIQUES DE L'URBANISME CONTEMPORAIN",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UR03",
+    "titre": "MAQUETTE NUMÉRIQUE ARCHITECTURALE ET URBAINE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UR05",
+    "titre": "AMÉNAGEMENT ET ENVIRONNEMENT",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UR06",
+    "titre": "GÉOMATIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "FE01",
+    "titre": "PERFECTIONNEMENT DU FRANÇAIS ÉCRIT",
+    "categorie": "TM",
+    "ects": 2,
+    "actif": false,
+    "fise": true
+  },
+  {
+    "code_uv": "AC01",
+    "titre": "RÉVISION D'ANALYSE ET D'ALGÈBRE",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AC02",
+    "titre": "BASES DE LA PROGRAMMATION",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AC03",
+    "titre": "PARTICIPER À UNE DÉMARCHE QUALITÉ EN ENTREPRISE",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AC04",
+    "titre": "MÉTHODES STATISTIQUES POUR L'INGÉNIEUR",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AC05",
+    "titre": "TRAITEMENT DU SIGNAL",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI01",
+    "titre": "ALGORITHMIQUE ET STRUCTURE DE DONNÉES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI02",
+    "titre": "INTELLIGENCE ARTIFICIELLE : REPRÉSENTATION DES CONNAISSANCES",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI03",
+    "titre": "MÉTHODES DE VÉRIFICATION ET VALIDATION DE LOGICIELS",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI04",
+    "titre": "MODÉLISATION ET SIMULATION DES FLUX",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI05",
+    "titre": "ARCHITECTURE DES RÉSEAUX",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI06",
+    "titre": "CAPTEURS POUR LES SYSTÈMES INTELLIGENTS",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI07",
+    "titre": "DATA WAREHOUSE ET OUTILS DÉCISIONNELS",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI09",
+    "titre": "MÉTHODES ET OUTILS POUR L'OPTIMISATION ET LA SIMULATION",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI10",
+    "titre": "CONCEPTION ET GESTION DE LA CHAÎNE LOGISTIQUE",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI11",
+    "titre": "TECHNIQUES DE MODÉLISATION, CAPITALISATION ET GESTION DES CONNAISSANCES",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI12",
+    "titre": "MÉTHODES DE DÉVELOPPEMENT PROJET INFORMATIQUE ET MAÎTRISE DE LA QUALITÉ",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI13",
+    "titre": "ARCHITECTURE DES APPLICATIONS WEB ET JEE",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI14",
+    "titre": "RÉSEAUX AVANCÉS ET CLOUD",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI15",
+    "titre": "MAÎTRISE DES SYSTÈMES INFORMATIQUES",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI16",
+    "titre": "CONCEPTION ET DÉVELOPPEMENT WEB",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI17",
+    "titre": "ANALYSE DE DONNÉES ET DATA MINING",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI18",
+    "titre": "GESTION DE PROJET MULTIMÉDIA",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI20",
+    "titre": "SÛRETÉ DE FONCTIONNEMENT DES SYSTÈMES INFORMATIQUES",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI21",
+    "titre": "THÉORIE DES LANGAGES DE PROGRAMMATION",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI22",
+    "titre": "PROGRAMMATION ET CONCEPTION ORIENTÉES OBJETS",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI23",
+    "titre": "CONCEPTION DE BASES DE DONNÉES RELATIONNELLES ET NON RELATIONNELLES",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI24",
+    "titre": "STRUCTURE D'UN CALCULATEUR",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI25",
+    "titre": "RECHERCHE OPÉRATIONNELLE, OPTIMISATION COMBINATOIRE",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI26",
+    "titre": "SYSTÈMES D'EXPLOITATION DES CONCEPTS À LA PROGRAMMATION",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI27",
+    "titre": "RÉSOLUTION DE PROBLÈMES ET PROGRAMMATION LOGIQUE",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI28",
+    "titre": "MACHINE LEARNING",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI29",
+    "titre": "INFORMATIQUE QUANTIQUE",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI30",
+    "titre": "SYSTÈMES MULTI-AGENTS",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI31",
+    "titre": "INDEXATION ET RECHERCHE D'INFORMATION",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI32",
+    "titre": "ÉLÉMENTS D'AUTOMATIQUE",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI33",
+    "titre": "SÉCURITÉ INFORMATIQUE",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI34",
+    "titre": "SYSTÈMES CYBER-PHYSIQUES",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI35",
+    "titre": "INGÉNIERIE DES SYSTÈMES EMBARQUÉS",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI36",
+    "titre": "MACHINES INTELLIGENTES",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI37",
+    "titre": "CYBER-RÉSILIENCE (APPRENTISSAGE)",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI38",
+    "titre": "RÉALITÉ VIRTUELLE",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI39",
+    "titre": "SYSTÈMES INFORMATIQUES TEMPS RÉEL ET DÉVELOPPEMENT EMBARQUÉ",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI40",
+    "titre": "AUTOMATIQUE POUR LA ROBOTIQUE",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AI41",
+    "titre": "NUMÉRIQUE RESPONSABLE",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM01",
+    "titre": "MODÉLISATION GÉOMÉTRIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM02",
+    "titre": "INTRODUCTION À LA CONCEPTION MÉCANIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM03",
+    "titre": "DYNAMIQUE DES SOLIDES",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM04",
+    "titre": "INTRODUCTION AUX PROPRIÉTÉS MÉCANIQUES DES MATÉRIAUX",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM05",
+    "titre": "ELÉMENTS DE RÉSISTANCE DES MATÉRIAUX",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM06",
+    "titre": "CONCEPTION MÉCANIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM07",
+    "titre": "BASES DE L'ÉLECTRONIQUE ANALOGIQUE",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM08",
+    "titre": "MÉCANIQUE DES FLUIDES INCOMPRESSIBLES",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM09",
+    "titre": "EXCELLENCE INDUSTRIELLE ET LEAN MANAGEMENT",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM10",
+    "titre": "INTRODUCTION À LA PRATIQUE DE L'ACOUSTIQUE",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM12",
+    "titre": "FIABILITÉ INDUSTRIELLE",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM14",
+    "titre": "MISE EN FORME DES MATÉRIAUX",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM15",
+    "titre": "TECHNOLOGIE DE FABRICATION",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM17",
+    "titre": "MAÎTRISE DES PROCESSUS INDUSTRIELS INTELLIGENTS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM18",
+    "titre": "MÉCANIQUE DES VIBRATIONS",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM19",
+    "titre": "INGÉNIERIE MULTIPHYSIQUE NUMÉRIQUE",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM20",
+    "titre": "PLANS D'EXPÉRIENCES ET INGÉNIERIE ROBUSTE",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM21",
+    "titre": "STRATÉGIES DE MAINTENANCE INDUSTRIELLE",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM22",
+    "titre": "RECHERCHE OPÉRATIONNELLE EN PRODUCTIQUE",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM23",
+    "titre": "SYSTÈME DE PRODUCTION ET USINE NUMÉRIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM27",
+    "titre": "CAPTEURS ET INSTRUMENTATION",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM29",
+    "titre": "PRODUCT LIFECYCLE MANAGEMENT AVANCÉ, INITIATION À LA CONTINUITÉ NUMÉRIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM30",
+    "titre": "GESTION DE PRODUCTION ET ERP",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM35",
+    "titre": "FABRICATION ASSISTÉE PAR ORDINATEUR ET MACHINES À COMMANDE NUMÉRIQUE",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM40",
+    "titre": "PHYSIQUE DES ONDES MÉCANIQUES",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM41",
+    "titre": "ATELIER PROJET EN ACOUSTIQUE ET VIBRATIONS",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM42",
+    "titre": "ACOUSTIQUE DES SALLES : MATÉRIAUX ET MODÉLISATION",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM43",
+    "titre": "SIMULATION NUMÉRIQUE EN VIBROACOUSTIQUE",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM51",
+    "titre": "DURABILITÉ MÉCANIQUE DES MATÉRIAUX",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM52",
+    "titre": "COMPORTEMENT MÉCANIQUE DES MATÉRIAUX",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AOS1",
+    "titre": "AVANCÉES EN APPRENTISSAGE STATISTIQUE",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "AOS2",
+    "titre": "APPRENTISSAGE PROFOND",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "AOS4",
+    "titre": "DÉCISION MULTICRITÈRE ET SOUS INCERTITUDES : INTRODUCTION",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "AOS5",
+    "titre": "INTRODUCTION À L'OPTIMISATION SOUS INCERTITUDE",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "AOS6",
+    "titre": "GRAPH LEARNING",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "AP3I",
+    "titre": "ATELIER PROJET INGÉNIEUR 3I",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "AP51",
+    "titre": "ATELIER PROJET CONCEPTION MÉCANIQUE INTÉGRÉE",
+    "categorie": "TM",
+    "ects": 8,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "AP52",
+    "titre": "SIMULATION POUR L'INGÉNIERIE MÉCANIQUE",
+    "categorie": "TM",
+    "ects": 8,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "AP53",
+    "titre": "PRODUCTION INTÉGRÉE ET LOGISTIQUE",
+    "categorie": "TM",
+    "ects": 8,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BA01",
+    "titre": "ÉQUIPEMENTS TECHNIQUES DU BÂTIMENT",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BA02",
+    "titre": "GESTION DE BÂTIMENTS ET D'INFRASTRUCTURES URBAINES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BA03",
+    "titre": "MATÉRIAUX DE CONSTRUCTION",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BA05",
+    "titre": "AUTOMATISMES, RÉGULATIONS ET BÂTIMENTS INTELLIGENTS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BA06",
+    "titre": "SYSTÈMES CONSTRUCTIFS DU BÂTIMENT",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BA08",
+    "titre": "DATA SCIENCE FOR THE SMART CITY",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BA09",
+    "titre": "INTRODUCTION AU CALCUL DES STRUCTURES DU BÂTIMENT",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BA10",
+    "titre": "SMART GRIDS: INTELLIGENT AND SUSTAINABLE ELECTRICAL SYSTEMS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BI01",
+    "titre": "MODÈLES ET OUTILS POUR LA BIOINFORMATIQUE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BI02",
+    "titre": "TRAITEMENT ET ANALYSE DES DONNÉES OMIQUES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BL16",
+    "titre": "GÉNIE MÉTABOLIQUE, CULTURES CELLULAIRES ET BIORÉACTEURS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BL17",
+    "titre": "GÉNIE DES PROTÉINES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BM02",
+    "titre": "ORGANES ARTIFICIELS ET BIORHÉOLOGIE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BM03",
+    "titre": "ROBOTIQUE MÉDICALE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BM04",
+    "titre": "ACQUISITION ET TRAITEMENT DE DONNÉES BIOMÉDICALES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BM05",
+    "titre": "TECHNIQUES D'EXPLORATIONS FONCTIONNELLES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BM06",
+    "titre": "TRAITEMENT D'IMAGES MÉDICALES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BM07",
+    "titre": "BIOCOMPATIBILITÉ",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BM08",
+    "titre": "MODÉLISATION DES SYSTÈMES BIOMÉCANIQUES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BMI4",
+    "titre": "MODÉLISATION DES SYSTÈMES OSTÉO-ARTICULAIRE ET MUSCULOSQUELETTIQUE EN INTERACTION",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BMQ1",
+    "titre": "INTRODUCTION À LA BIOMÉCANIQUE DES FLUIDES ET DES SOLIDES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BT02",
+    "titre": "OPÉRATIONS AGRO-INDUSTRIELLES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BT03",
+    "titre": "GÉNIE DES SYSTÈMES TISSULAIRES ET IMMUNOTECHNOLOGIE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BT06",
+    "titre": "ANALYSE DES PRODUITS BIOLOGIQUES ET ALIMENTAIRES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BT07",
+    "titre": "FORMULATION, INNOVATION, NUTRITION",
+    "categorie": "TM",
+    "ects": 7,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BT10",
+    "titre": "RISQUES BIOLOGIQUES ET SÉCURITÉ ALIMENTAIRE",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BT21",
+    "titre": "BIOTECHNOLOGIES MOLÉCULAIRES ET GÉNIE GÉNÉTIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BT22",
+    "titre": "LES AGRORESSOURCES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CF04",
+    "titre": "MÉCANIQUE DES FLUIDES NUMÉRIQUE ET COUPLAGES MULTIPHYSIQUES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CM04",
+    "titre": "PROCÉDÉS INDUSTRIELS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CM05",
+    "titre": "THERMODYNAMIQUE CHIMIQUE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CM06",
+    "titre": "CALCUL D'UNE OPÉRATION INDUSTRIELLE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CM08",
+    "titre": "CONCEPTION ET OPTIMISATION INTÉGRÉES DES PROCÉDÉS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CM15",
+    "titre": "INGÉNIERIE DES SYSTÈMES COLLOÏDAUX",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CM40",
+    "titre": "CATALYSE HÉTÉROGÈNE",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CT04",
+    "titre": "CONTRÔLES NON DESTRUCTIFS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "DD02",
+    "titre": "ECOCONCEPTION DES SYSTÈMES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "DF01",
+    "titre": "MAÎTRISE DES PROCESSUS INDUSTRIELS INTELLIGENTS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "DF02",
+    "titre": "FIABILITÉ INDUSTRIELLE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "DF03",
+    "titre": "CONCEPTION ROBUSTE ET PLANS D'EXPÉRIENCES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "DI03",
+    "titre": "CONCEPTION FORMELLE DES PRODUITS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "DI04",
+    "titre": "DESIGN PACKAGING",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "DI08",
+    "titre": "DESIGN INDUSTRIEL ET CRÉATION DE PRODUITS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "EL01",
+    "titre": "PHÉNOMÈNES ÉLECTROMAGNÉTIQUES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "EL02",
+    "titre": "ÉLECTRICITÉ INDUSTRIELLE APPLIQUÉE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "EN14",
+    "titre": "FONCTIONS ÉLECTRONIQUES POUR L'INGÉNIEUR",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "EN21",
+    "titre": "BASES DE L'ÉLECTRONIQUE ANALOGIQUE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "EV01",
+    "titre": "PROCÉDÉS DE TRAITEMENT DES DÉCHETS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "EV02",
+    "titre": "CONCEPTION DE PROCÉDÉS PROPRES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "EV03",
+    "titre": "PROCÉDÉS DE TRAITEMENT ET VALORISATION DES EFFLUENTS LIQUIDES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "GA38",
+    "titre": "MANAGEMENT ET OUTILS D'AIDE À LA CRÉATIVITÉ INDUSTRIELLE ET À L'INNOVATION À DISTANCE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "GE38",
+    "titre": "MANAGEMENT ET OUTILS D'AIDE À LA CRÉATIVITÉ INDUSTRIELLE ET À L'INNOVATION",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "GE39",
+    "titre": "MANAGEMENT ET MARKETING DE L'INNOVATION",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "GE40",
+    "titre": "MANAGEMENT DE PROJETS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IA03",
+    "titre": "TECHNIQUES DE MODÉLISATION, CAPITALISATION ET GESTION DES CONNAISSANCES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IA04",
+    "titre": "SYSTÈMES MULTI-AGENTS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IQ01",
+    "titre": "INFORMATIQUE QUANTIQUE : CONCEPTS, ALGORITHMES ET APPLICATIONS",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IS05",
+    "titre": "NUMÉRIQUE RESPONSABLE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISC3",
+    "titre": "OUTILS DE CALCUL SCIENTIFIQUE",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISC4",
+    "titre": "MÉTHODOLOGIE DE SYNTHÈSE DE COMMANDE",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISC5",
+    "titre": "PRÉVISION DE LA SURETÉ DE FONCTIONNEMENT",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISC6",
+    "titre": "INTRODUCTION À L'INGÉNIERIE SYSTÈME",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISC8",
+    "titre": "PROTOCOLE EXPÉRIMENTAL, INSTRUMENTATION ET TRAITEMENT",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISC9",
+    "titre": "FLUX ET TRANSDUCTION D'ÉNERGIE DANS LES SYSTÈMES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISCC",
+    "titre": "MODÉLISATION ET PROPAGATION DES INCERTITUDES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISCF",
+    "titre": "ATELIER PROJET",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "LO17",
+    "titre": "INDEXATION ET RECHERCHE D'INFORMATION",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "LO18",
+    "titre": "GESTION DE PROJETS MULTIMÉDIA",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "LO22",
+    "titre": "INGÉNIERIE DES LOGICIELS SÛRS DE FONCTIONNEMENT",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "LO23",
+    "titre": "CONDUITE DE PROJET INFORMATIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MC01",
+    "titre": "MACHINES ÉLECTRIQUES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MC02",
+    "titre": "ENTRAÎNEMENTS ÉLECTRIQUES À VITESSE VARIABLE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MC05",
+    "titre": "ÉNERGIE ET MACHINES THERMIQUES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MC06",
+    "titre": "MODÉLISATION, DIMENSIONNEMENT, RÉGLAGES D'AXES ÉLECTROMÉCANIQUES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MC07",
+    "titre": "ÉLECTRONIQUE DE PUISSANCE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MC08",
+    "titre": "INGÉNIERIE ROBOTIQUE ET ACTIONNEURS ÉLECTRIQUES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MI11",
+    "titre": "SYSTÈMES INFORMATIQUES TEMPS RÉEL ET DÉVELOPPEMENT EMBARQUÉ",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MI12",
+    "titre": "INGÉNIERIE DES SYSTÈMES EMBARQUÉS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ML01",
+    "titre": "MACHINE LEARNING POUR TOUS",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MP02",
+    "titre": "INTRODUCTION AUX MÉTHODES DE LA GPAO",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MP03",
+    "titre": "SUPPLY CHAIN MANAGEMENT (GESTION DE LA CHAÎNE LOGISTIQUE)",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ02",
+    "titre": "MÉCANIQUE DES SOLIDES DÉFORMABLES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ03",
+    "titre": "MÉCANIQUE DES VIBRATIONS - I",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ04",
+    "titre": "POLYMÈRES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ06",
+    "titre": "MODÉLISATION DES STRUCTURES PAR ÉLÉMENTS FINIS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ08",
+    "titre": "ÉLABORATION ET PROPRIÉTÉS D'USAGE DES MÉTAUX",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ11",
+    "titre": "PROCÉDÉS DE MISE EN FORME",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ12",
+    "titre": "CHOIX DES MATÉRIAUX ET DES PROCÉDÉS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ13",
+    "titre": "MATÉRIAUX COMPOSITES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ14",
+    "titre": "OPTIMISATION EN MÉCANIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ16",
+    "titre": "ÉLÉMENTS FINIS POUR LA MODÉLISATION DE CRASH ET L'ANALYSE D'IMPACTS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ18",
+    "titre": "CINÉMATIQUE ET DYNAMIQUE DES SYSTÈMES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ19",
+    "titre": "DYNAMIQUE DES STRUCTURES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ21",
+    "titre": "DURABILITÉ MÉCANIQUE DES MATÉRIAUX",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MQ22",
+    "titre": "COMPORTEMENT MÉCANIQUE DES MATÉRIAUX",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MS02",
+    "titre": "PRINCIPES PHYSIQUES DES CAPTEURS ET INSTRUMENTATION",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MS03",
+    "titre": "ATELIER PROJET EN ACOUSTIQUE ET VIBRATIONS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MT10",
+    "titre": "STRUCTURES, CALCUL FORMEL ET ALGORITHMES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "MT12",
+    "titre": "TECHNIQUES MATHÉMATIQUES POUR L'INGÉNIEUR",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "NA05",
+    "titre": "COMPÉTENCES NUMÉRIQUES",
+    "categorie": "TM",
+    "ects": 0,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "NF11",
+    "titre": "THÉORIE DES LANGAGES DE PROGRAMMATION",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "NF15",
+    "titre": "MICROCONTRÔLEUR POUR SYSTÈMES EMBARQUÉS : PROGRAMMATION ET INTERFAÇAGE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "NF23",
+    "titre": "SIMULATION DES OPÉRATIONS EN GÉNIE DES PROCÉDÉS",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "NF24",
+    "titre": "MODÉLISATION ET SIMULATION DES PROCÉDÉS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "NF26",
+    "titre": "DATA WAREHOUSE ET OUTILS DÉCISIONNELS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "NF28",
+    "titre": "INGÉNIERIE DES SYSTÈMES INTERACTIFS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PRDW",
+    "titre": "RÉALISATION DE PROJET DATA WAREHOUSE",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PS09",
+    "titre": "INTRODUCTION À LA PRATIQUE DE L'ACOUSTIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PS10",
+    "titre": "PHYSIQUE DES ONDES MÉCANIQUES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PS12",
+    "titre": "ACOUSTIQUE DES SALLES : MATÉRIAUX ET MODÉLISATION",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PS13",
+    "titre": "SIMULATION NUMÉRIQUE EN VIBROACOUSTIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PS15",
+    "titre": "THERMODYNAMIQUE PHYSIQUE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "RO04",
+    "titre": "OPTIMISATION ET RECHERCHE OPÉRATIONNELLE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "RO06",
+    "titre": "SIMULATION ET TECHNIQUES D'OPTIMISATION",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "RR01",
+    "titre": "CINÉTIQUE CHIMIQUE ET RÉACTEURS HOMOGÈNES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "RR02",
+    "titre": "RÉACTEURS ET OPÉRATIONS POLYPHASIQUES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "RV01",
+    "titre": "RÉALITÉ VIRTUELLE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SR03",
+    "titre": "ARCHITECTURE DES APPLICATIONS INTERNET",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SR04",
+    "titre": "RÉSEAUX INFORMATIQUES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SR05",
+    "titre": "ALGORITHMES ET SYSTÈMES RÉPARTIS",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SR06",
+    "titre": "SÉCURITÉ INFORMATIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SR07",
+    "titre": "CYBER-RÉSILIENCE",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SR08",
+    "titre": "CLOUD ET RÉSEAUX AVANCÉS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SR09",
+    "titre": "PROJETS SÛRETÉ/SÉCURITÉ AVEC DES ENTREPRISES",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SR10",
+    "titre": "CONCEPTION ET DÉVELOPPEMENT WEB",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY03",
+    "titre": "INTRODUCTION AUX SYSTÈMES D'ENTRAÎNEMENTS ÉLECTRIQUES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY04",
+    "titre": "SYSTÈMES ASSERVIS LINÉAIRES : ANALYSE ET COMMANDE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY05",
+    "titre": "CONTRÔLE DES PROCÉDÉS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY08",
+    "titre": "MODÉLISATION DES SYSTÈMES À ÉVÈNEMENTS DISCRETS",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY09",
+    "titre": "ANALYSE DE DONNÉES ET DATA MINING",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY12",
+    "titre": "MODÉLISATION ET PERFORMANCE DES SYSTÈMES DE PRODUCTION",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY14",
+    "titre": "ÉLÉMENTS D'AUTOMATIQUE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY15",
+    "titre": "AUTOMATIQUE POUR LA ROBOTIQUE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY19",
+    "titre": "APPRENTISSAGE AUTOMATIQUE (MACHINE LEARNING)",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY26",
+    "titre": "TÉLÉCOMMUNICATIONS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY27",
+    "titre": "MACHINES INTELLIGENTES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY28",
+    "titre": "SYSTÈMES CYBER-PHYSIQUES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY31",
+    "titre": "CAPTEURS POUR LES SYSTÈMES INTELLIGENTS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SY32",
+    "titre": "VISION ET APPRENTISSAGE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TA02",
+    "titre": "ÉVALUATION ÉCONOMIQUE DES PROCÉDÉS",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TA03",
+    "titre": "ANALYSE DU CYCLE DE VIE ET ÉCOCONCEPTION",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TF01",
+    "titre": "MÉCANIQUE DES FLUIDES INCOMPRESSIBLES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TF14",
+    "titre": "LES OPÉRATIONS DE TRANSFERT DE MATIÈRE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TF70",
+    "titre": "OPTIMISATION, TRANSFERT ET STOCKAGE DE L'ÉNERGIE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TF71",
+    "titre": "VALORISATION DE LA BIOMASSE EN VECTEURS ÉNERGÉTIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TF72",
+    "titre": "PROCÉDÉS DE VALORISATION MATIÈRE DE LA BIOMASSE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TH02",
+    "titre": "PRODUCTION ET TRANSFERT DE CHALEUR",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TH04",
+    "titre": "FROID INDUSTRIEL",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN08",
+    "titre": "DESSIN DE COMMUNICATION",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN12",
+    "titre": "CONCEPTION MÉCANIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN13",
+    "titre": "DIMENSIONNEMENT POUR LA CONCEPTION DES SYSTÈMES MÉCANIQUES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN15",
+    "titre": "ITÉRATION ENTREPRENEURIALE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN20",
+    "titre": "CAO : MODÉLISATION GÉOMÉTRIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN21",
+    "titre": "GESTION DU CYCLE DE VIE DU PRODUIT ET INGÉNIERIE COLLABORATIVE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN22",
+    "titre": "ÉLÉMENTS DE BUREAU D'ÉTUDES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN23",
+    "titre": "TECHNIQUES DE FABRICATION",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN24",
+    "titre": "TECHNOLOGIES DE FABRICATION ET OUTILS MÉTHODES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN25",
+    "titre": "INTÉGRATION ET SYSTÈMES MÉCATRONIQUES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN29",
+    "titre": "OUTILS DE DÉFINITION ET DE DÉVELOPPEMENT DE SYSTÈMES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TN30",
+    "titre": "SÉMINAIRES SUR LA TRANSFORMATION NUMÉRIQUE POUR L'INGÉNIERIE MÉCANIQUE",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TS02",
+    "titre": "MAÎTRISER LES RISQUES PROCÉDÉS ET LES RISQUES MAJEURS",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UB02",
+    "titre": "SYSTÈMES DE TRANSPORT URBAIN",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UB03",
+    "titre": "MOBILITÉ ET TRANSPORT",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UB06",
+    "titre": "PROJET URBAIN",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UB09",
+    "titre": "HYDRAULIQUE DES SOLS",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UR07",
+    "titre": "POLITIQUES URBAINES ET DROIT DE L'URBANISME",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UXD1",
+    "titre": "DESIGN D'EXPÉRIENCE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "XL22",
+    "titre": "ENSEIGNEMENT THÉORIQUE DE MICROBIOLOGIE GÉNÉRALE ET BIOLOGIE MOLÉCULAIRE",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UE31",
+    "titre": "OUTILS DE SURVEILLANCE ET D'INSPECTION",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UE32",
+    "titre": "AUTODIAGNOSTIC, TÉLÉMAINTENANCE",
+    "categorie": "TM",
+    "ects": 2,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UE33",
+    "titre": "APPROCHE FMDS (FIABILITÉ, MAINTENABILITÉ, DISPONIBILITÉ, SÉCURITÉ)",
+    "categorie": "TM",
+    "ects": 2,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UE34",
+    "titre": "OUTILS STATISTIQUES",
+    "categorie": "CS",
+    "ects": 2,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UE41",
+    "titre": "ASSERVISSEMENT",
+    "categorie": "TM",
+    "ects": 2,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UE42",
+    "titre": "HYDRAULIQUE",
+    "categorie": "TM",
+    "ects": 2,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UE43",
+    "titre": "ANALYSE FONCTIONNELLE",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UE44",
+    "titre": "ÉLECTROTECHNIQUE",
+    "categorie": "TM",
+    "ects": 2,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "AOS3",
+    "titre": "MODÉLISATION ET OPTIMISATION DES SYSTÈMES DISCRETS",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ARS1",
+    "titre": "MÉTHODES AVANCÉES DE COMMANDE DES SYSTÈMES DYNAMIQUES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ARS2",
+    "titre": "VISION POUR LA ROBOTIQUE",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ARS3",
+    "titre": "TECHNOLOGIES ET ALGORITHMES POUR LES COMMUNICATIONS DANS LES SOS",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ARS4",
+    "titre": "ESTIMATION POUR LA NAVIGATION ROBOTIQUE",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ARS5",
+    "titre": "SYSTÉMES ROBOTIQUES AUTONOMES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BG01",
+    "titre": "OMIQUES ET EXPRESSION DES GÈNES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BG02",
+    "titre": "INGÉNIERIE DE LA DIVERSITÉ MOLÉCULAIRE",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BG03",
+    "titre": "ANALYSE CHIMIQUE POUR L'ÉTUDE DU MÉTABOLISME",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BG04",
+    "titre": "BIOLOGIE STRUCTURALE",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BG05",
+    "titre": "PROCÉDÉS DE TRANSFORMATION VÉGÉTALE",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BG07",
+    "titre": "MODÉLISATION ET DYNAMIQUE DES MOLÉCULES",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BG08",
+    "titre": "BIOCONTRÔLE ET NÉOPHYTOSANITAIRES",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BG09",
+    "titre": "MICROBIOLOGIE APPLIQUÉE, NOUVEAUX CONCEPTS",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BG10",
+    "titre": "VALORISATION DE LA BIOMASSE ET PRODUCTION BIOTECHNOLOGIQUE DE MOLÉCULES D'INTÉRÊT : MONTAGE D'UN PROJET",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BG11",
+    "titre": "ALTERNATIVES VÉGÉTALES",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BMI0",
+    "titre": "PROPRIÉTÉS MÉCANIQUES DES SYSTÈMES BIOLOGIQUES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BMI1",
+    "titre": "DISPOSITIFS CONNECTÉS ET INTELLIGENCE ARTIFICIELLE POUR DES APPLICATIONS BIOMÉDICALES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BMI2",
+    "titre": "SYSTÈMES MICROFLUIDIQUES ET MICROSYSTÈMES APPLIQUÉS À LA BIOLOGIE ET À LA SANTÉ",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BMI3",
+    "titre": "MODÉLISATION DES SYSTÈMES NEUROMUSCULAIRE ET MUSCULOSQUELETTIQUE EN INTERACTION",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BMI5",
+    "titre": "NANOTECNOLOGIES ET NANOBIOMÉCANIQUE DES SYSTÈMES BIOLOGIQUES COMPLEXES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "BMI6",
+    "titre": "MODÉLISATION MULTIPHYSIQUE DU SYSTÈME VASCULAIRE",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CH00",
+    "titre": "MÉTHODOLOGIES POUR LA RECHERCHE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CH01",
+    "titre": "TECHNOLOGIES DES POUDRES ET MILIEUX PULVÉRULENTS",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CH06",
+    "titre": "LES NOUVELLES MATIÈRES PLASTIQUES ET BIOPLASTIQUES COMME ALTERNATIVES AUX PLASTIQUES CONVENTIONNELS",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CH12",
+    "titre": "LES RISQUES PROFESSIONNELS",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CHA1",
+    "titre": "MAITRISE DES RISQUES ( APPRENTISSAGE )",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CHA2",
+    "titre": "OPÉRATIONS AGRO-INDUSTRIELLES ( APPRENTISSAGE )",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "CHA4",
+    "titre": "LES OPÉRATIONS DE TRANSFERT DE MATIÈRE",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "CHA5",
+    "titre": "INGÉNIERIE DES SYSTÈMES COLLOÏDAUX",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "GPF0",
+    "titre": "PHYSICOCHIMIE DES INTERFACES ET DES SYSTÈMES DISPERSÉS",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "GPF1",
+    "titre": "SYSTÈMES ÉMULSIONNÉS EN FORMULATION",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "GPF2",
+    "titre": "ANALYSE DES PROPRIÉTÉS OPTIQUES ET STRUCTURALES",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "GPF3",
+    "titre": "TECHNOLOGIES DE MISE EN ŒUVRE DES FLUIDES COMPLEXES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "GPF4",
+    "titre": "FORMULATION, APPLICATIONS COSMÉTIQUES ET ALIMENTAIRES",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "GPF5",
+    "titre": "FILMICATION, APPLICATIONS PEINTURES ET ADHÉSIFS",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "GPFA",
+    "titre": "TP FORMULATION",
+    "categorie": "TM",
+    "ects": 2,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ICX1",
+    "titre": "INTRODUCTION AU DESIGN D'EXPÉRIENCE ET À L'ÉCO-CONCEPTION",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ICX3",
+    "titre": "ATELIER PROJET / EXPÉRIMENTATION",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDC1",
+    "titre": "BASES DES RÉSEAUX ET DES SYSTÈMES D'INFORMATION",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDC2",
+    "titre": "MÉTROLOGIE ET ANALYSE DE DONNÉES",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDC5",
+    "titre": "ACQUISITION DE SIGNAUX ET D'IMAGES MÉDICALES",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDC6",
+    "titre": "OUVERTURE RECHERCHE ET INNOVATION EN SANTÉ",
+    "categorie": "CS",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDC7",
+    "titre": "PHYSIOLOGIE DES SYSTÈMES INTÉGRÉS",
+    "categorie": "CS",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDC8",
+    "titre": "INTRODUCTION À L'INSTRUMENTATION BIOMÉDICALE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDCA",
+    "titre": "MANAGEMENT DES ORGANISATIONS BIOMÉDICALES",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDCB",
+    "titre": "INGÉNIERIE DE PROJET",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDCC",
+    "titre": "COMMUNICATION PROFESSIONNELLE DE PROJET",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDCD",
+    "titre": "PROJET D'INTÉGRATION",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDCE",
+    "titre": "CYCLE DE VIE D'UN DISPOSITIF MÉDICAL",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDCF",
+    "titre": "ORGANISATION DU SYSTÈME DE SANTÉ",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDCG",
+    "titre": "IMAGERIE MÉDICALE CLINIQUE",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDCI",
+    "titre": "LABORATOIRE D'ANALYSES CLINIQUES",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDCJ",
+    "titre": "TÉLÉMEDECINE",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDCK",
+    "titre": "AUDIT ET ÉVALUATION DES ORGANISATIONS : NORMES ET PROCESSUS",
+    "categorie": "TM",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDCL",
+    "titre": "AFFAIRES RÉGLEMENTAIRES ET DISPOSITIF MÉDICAL",
+    "categorie": "CS",
+    "ects": 4,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IDCM",
+    "titre": "AUDIT ET ÉVALUATION DES ORGANISATIONS : CERTIFICAT D'AUDIT INTERNE",
+    "categorie": "TM",
+    "ects": 2,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISC0",
+    "titre": "APPRENTISSAGE MACHINE SCIENTIFIQUE",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISC1",
+    "titre": "ANALYSE DE DONNÉES EXPÉRIMENTALES",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISC2",
+    "titre": "BASES DE MODÉLISATION STOCHASTIQUE",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISCA",
+    "titre": "INGÉNIERIE DES SYSTÈMES AVANCÉE",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISCB",
+    "titre": "BIOMIMÉTISME DES SYSTÈMES DE SYSTÈMES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISCD",
+    "titre": "OPTIMISATION",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISCE",
+    "titre": "ANALYSE AVANCÉE DE DONNÉES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISCG",
+    "titre": "MÉTHODE ET MODÉLISATION DE CAPTURE DE MOUVEMENT 3D",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISCH",
+    "titre": "DE LA MICROSTRUCTURE AUX PROPRIÉTÉS DES MATÉRIAUX",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISCI",
+    "titre": "ROBUSTESSE POUR LA CONCEPTION DE SYSTÈMES MÉCANIQUES ET MÉCATRONIQUES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "ISCJ",
+    "titre": "SÉMINAIRES",
+    "categorie": "TM",
+    "ects": 2,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PVR2",
+    "titre": "CONCEPTION ET CONDUITE DE BIORÉACTEURS",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PVR3",
+    "titre": "TECHNOLOGIES ÉMERGENTES POUR LA TRANSFORMATION DES RESSOURCES RENOUVELABLES",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PVR4",
+    "titre": "PROCÉDÉS DE TRANSFORMATION THERMOCHIMIQUE DES AGRORESSOURCES EN BIOCARBURANTS",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PVR5",
+    "titre": "PROCÉDÉS D'EXTRACTION, SÉPARATION ET PURIFICATION DES BIOMOLÉCULES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PVR6",
+    "titre": "VALORISATION DES COPRODUITS ET MINIMISATION DES EFFLUENTS",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PVR7",
+    "titre": "VALORISATION ÉNERGETIQUE DE LA BIOMASSE",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "PVR8",
+    "titre": "ECO BILAN ET ANALYSE DU CYCLE DE VIE",
+    "categorie": "TM",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SMC1",
+    "titre": "COMPORTEMENTS MÉCANIQUES COMPLEXES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SMC2",
+    "titre": "MODÉLISATION ALÉATOIRE POUR LA MÉCANIQUE",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SMC3",
+    "titre": "MÉTHODES D'IDENTIFICATION ET DE CARACTÉRISATION DU COMPORTEMENT DES MATÉRIAUX",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SMC4",
+    "titre": "COUPLAGES MULTI-PHYSIQUES, OPTIMISATION ET RÉDUCTION DE MODÈLES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SMC5",
+    "titre": "MÉTHODES NUMÉRIQUES AVANCÉES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SMT1",
+    "titre": "MODÉLISATION ET SIMULATION SYSTÈMES",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SMT2",
+    "titre": "MICRO-ACTIONNEURS ET MICROSYSTÈMES : MÉTHODES ET APPLICATIONS",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SMT3",
+    "titre": "MÉTHODES DE MESURE ET DE COMMUNICATION INTÉGRÉES POUR LES SYSTÈMES MÉCATRONIQUES INNOVANTS",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SMT4",
+    "titre": "CONCEPTION ET COMMANDE DE SYSTÈMES MÉCATRONIQUES À ÉNERGIE EMBARQUÉE",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SMT5",
+    "titre": "CONCEPTION OPTIMALE ET MODÉLISATION MULTIPHYSIQUE EN MÉCATRONIQUE",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "SMX6",
+    "titre": "MATÉRIAUX ACTIFS",
+    "categorie": "CS",
+    "ects": 3,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "UXD2",
+    "titre": "SCÉNARISATION D'EXPÉRIENCE UTILISATEUR",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "IS03",
+    "titre": "LOWTECHISATION ET NUMÉRIQUE",
+    "categorie": "TM",
+    "ects": 6,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "TM02",
+    "titre": "RÉALISATION DE PROTOTYPES",
+    "categorie": "TM",
+    "ects": 5,
+    "actif": true,
+    "fise": true
+  },
+  {
+    "code_uv": "HOP3",
+    "titre": "GÉRER ET OPTIMISER SON TRAVAIL D'ÉTUDIANT DANS LE RESPECT DE SON BIEN-ÊTRE",
+    "categorie": "TM",
+    "ects": 2,
+    "actif": false,
+    "fise": true
+  },
+  {
+    "code_uv": "AM11",
+    "titre": "Modélisation numérique niveau 1 (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AM25",
+    "titre": "Modélisation numérique niveau 2 (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AR03",
+    "titre": "Art, société et techniques",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AR04",
+    "titre": "Art, ville, architecture",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "AV01",
+    "titre": "Initiation à l'analyse et à la réalisation audiovisuelle",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "BC01",
+    "titre": "Rédaction bibliographique de fin d'études",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "CM71",
+    "titre": "Travaux pratiques de gp (2)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "DI01",
+    "titre": "Initiation au design industriel",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "DI02",
+    "titre": "Initiation au design graphique",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "DS01",
+    "titre": "Design acoustique",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EI02",
+    "titre": "International project management",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EI03",
+    "titre": "Interculturalité dans les organisations contemporaines",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EI04",
+    "titre": "Intelligence économique : stratégie d'entreprise, démarche et outils",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EI05",
+    "titre": "Science, technologie et société dans l'union européenne",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2A1",
+    "titre": "Innovation and new industrial policy",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2A2",
+    "titre": "Economics of the digital transition",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2A3",
+    "titre": "From Intellectual Property to Commons-based innovation",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2B1",
+    "titre": "Post-Keynesian economics",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2B2",
+    "titre": "Financial instability and international regulation",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2B3",
+    "titre": "Modelling development and the ecological transition",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2C1",
+    "titre": "Emerging countries and the transition in the global economy",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2C2",
+    "titre": "Finance and the ecological transition",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2C3",
+    "titre": "Ecological economics",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2D2",
+    "titre": "Economics of education",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2E1",
+    "titre": "Finance capital and financialisation",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2E2",
+    "titre": "Corporate governance and labour",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2F1",
+    "titre": "Social and solidarity economy in perspective",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2G1",
+    "titre": "Social protection",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2G2",
+    "titre": "Pharmaceutical patents, TRIPS and public health",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2I1",
+    "titre": "Econometrics",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2I2",
+    "titre": "Advanced econometrics",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2N2",
+    "titre": "Ecological challenges from a multidisciplinary perspective",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "EP2N3",
+    "titre": "Joint seminars",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "GE10",
+    "titre": "Économie politique",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "GE13",
+    "titre": "Les risques entre technique et société",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "GE15",
+    "titre": "Initiation à la création et gestion d'entreprises innovantes",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "GE20",
+    "titre": "Économie industrielle",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "GE21",
+    "titre": "Économie et gestion de l'innovation et du numérique",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "GE22",
+    "titre": "Économie internationale",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "GE25",
+    "titre": "Gestion et organisation de la production",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "GE26",
+    "titre": "Management stratégique des ressources humaines",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "GE27",
+    "titre": "Gestion financière de l'entreprise",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "GE28",
+    "titre": "Droit de la propriété intellectuelle",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "GE36",
+    "titre": "Marketing",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "HE01",
+    "titre": "Épistémologie et histoire des sciences",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "HE03",
+    "titre": "Logique : histoire et formalisme",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "HE10",
+    "titre": "Penser la Conception Technologique. Approche interdisciplinaire.",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "HT01",
+    "titre": "Culture et histoire des techniques",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "HT04",
+    "titre": "Théories technologiques et histoire des savoirs techniques",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "HT05",
+    "titre": "Théories technologiques appliquées",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "IC05",
+    "titre": "Technologies pour la documentation et l'indexation dans l'hypermédia",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "IC06",
+    "titre": "Industrie et conception des jeux vidéo",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "ICX2",
+    "titre": "Analyse des situations",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "ICX6",
+    "titre": "Design d'interface et maîtrise des outils numériques en UX",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "IDC3",
+    "titre": "Geste, parole et savoir-être",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "IDCH",
+    "titre": "Traitements et soins 1 : blocs opératoires, anesthésie, réanimation",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "INF1",
+    "titre": "Algorithmique et programmation, niveau 1",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "INF2",
+    "titre": "Programmation et développements niveau 2",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "IS04",
+    "titre": "Les philosophies de la nature et l'ingénieur contemporain",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "IS10",
+    "titre": "Accompagner la conscientisation socio-écologique",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA00",
+    "titre": "Allemand initiation",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA01",
+    "titre": "Allemand niveau I",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA02",
+    "titre": "Allemand niveau II",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA03",
+    "titre": "Allemand niveau III",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA04",
+    "titre": "Pratique de la communication en allemand",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA11",
+    "titre": "Anglais niveau I",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA12",
+    "titre": "Anglais niveau II",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA13",
+    "titre": "Anglais niveau III",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA14",
+    "titre": "Civilisation du monde anglophone",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA20",
+    "titre": "Espagnol initiation",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA21",
+    "titre": "Espagnol niveau I",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA22",
+    "titre": "Espagnol niveau II",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA23",
+    "titre": "Espagnol niveau III",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA24",
+    "titre": "Le monde hispanique contemporain : l'Amérique Latine (niveau IV)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA91",
+    "titre": "Français langue étrangère niveau I",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA92",
+    "titre": "Français langue étrangère niveau II",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA93",
+    "titre": "Français langue étrangère niveau III",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA94",
+    "titre": "Français langue étrangère niveau IV",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LA95",
+    "titre": "Lectures et pratiques d'écriture universitaire",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LB14",
+    "titre": "Interculturalité appliquée aux pays anglophones",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LB24",
+    "titre": "Le monde hispanique (niveau IV) : l'Espagne",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LC14",
+    "titre": "Communication scientifique et technique en anglais",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LC72",
+    "titre": "Anglais master niveau 2",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LC73",
+    "titre": "Anglais master niveau 3",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LD14",
+    "titre": "Anglais professionnel - niveau IV",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LG30",
+    "titre": "Japonais initiation",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LG31",
+    "titre": "Japonais niveau I",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LG32",
+    "titre": "Japonais niveau II",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LG33",
+    "titre": "Japonais pré-intermédiaire",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LG40",
+    "titre": "Portugais initiation",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LG41",
+    "titre": "Portugais niveau I",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LG42",
+    "titre": "Portugais niveau II",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LG50",
+    "titre": "Italien initiation",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LG51",
+    "titre": "Italien niveau I",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LG52",
+    "titre": "Italien niveau II",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LG53",
+    "titre": "Italien niveau III",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LG60",
+    "titre": "Chinois initiation",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LG61",
+    "titre": "Chinois niveau I",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LG62",
+    "titre": "Chinois niveau II",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LG63",
+    "titre": "Chinois niveau III",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LH01",
+    "titre": "Allemand niveau 1 (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LH12",
+    "titre": "Anglais niveau II (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LH13",
+    "titre": "Anglais niveau III (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LH14",
+    "titre": "Anglais niveau IV (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LH15",
+    "titre": "American civilization (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LH16",
+    "titre": "Anglais professionnel (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LH17",
+    "titre": "British civilisation (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LH18",
+    "titre": "Projet individualisé (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LH30",
+    "titre": "Japonais initiation (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LH40",
+    "titre": "Portugais initiation (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LH50",
+    "titre": "Italien initiation (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "LH60",
+    "titre": "Chinois initiation (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "MA09",
+    "titre": "Soutien de mt09",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "MT1R",
+    "titre": "Réévaluation de l'UV MT01",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "MT2R",
+    "titre": "Réévaluation de l'UV MT02 / MTX2",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "MT36",
+    "titre": "Géométrie",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "MT3R",
+    "titre": "Réévaluation de l'UV MT03",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "MU02",
+    "titre": "Pratique instrumentale de haut niveau",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "MU03",
+    "titre": "Pratique collective des musiques actuelles",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "PH01",
+    "titre": "Introduction à la philosophie",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "PH03",
+    "titre": "Penser la technique aujourd'hui",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "PH04",
+    "titre": "Introduction à la philosophie politique",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "PH09",
+    "titre": "Éthiques : approche pluridisciplinaire",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SA12",
+    "titre": "Les techniques de l'acteur",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SC11",
+    "titre": "Théorie des sciences cognitives : computation et énaction",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SC12",
+    "titre": "Technologie, cognition, perception",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SC21",
+    "titre": "Linguistique et philosophie du langage",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SC22",
+    "titre": "Approches culturelles des techniques : genre, classe, espace",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SC23",
+    "titre": "Interaction sociale et usages du numérique",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SC25",
+    "titre": "Cognition sociale : interactions et collectifs",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SF01",
+    "titre": "Soutien de français Niveau 1",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SH01",
+    "titre": "L'ingénieur dans l'organisation contemporaine (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SH03",
+    "titre": "Gestion de projet (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SH06",
+    "titre": "L'ingénieur en situation de management (apprentissage)",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SH07",
+    "titre": "Innovation et entreprenariat",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SH40",
+    "titre": "Les risques entre technique et société",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SI01",
+    "titre": "Science et débat public",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SI02",
+    "titre": "Communication professionnelle de l'ingénieur",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SI11",
+    "titre": "Expression orale - parole publique",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SI14",
+    "titre": "Parole publique en anglais",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SI22",
+    "titre": "Signes et contenus numériques",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SI24",
+    "titre": "Études des écritures numériques ordinaires",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SI28",
+    "titre": "Écriture interactive et multimédia",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SL00",
+    "titre": "Suivi linguistique",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SO04",
+    "titre": "Initiation au droit",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SO05",
+    "titre": "Sociologie, organisations et dynamiques des collectifs",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SP01",
+    "titre": "Un corps pour comprendre et apprendre",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SP02",
+    "titre": "Conduire un projet sportif",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "SP22",
+    "titre": "S'apprendre pour mieux gérer",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "TN14",
+    "titre": "Commande hydraulique de puissance",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "TSN1",
+    "titre": "Technologie, sport et santé 1",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  },
+  {
+    "code_uv": "WE01",
+    "titre": "Ecrire, communiquer et collaborer sur le Web",
+    "categorie": "",
+    "ects": 0,
+    "actif": true,
+    "fise": false
+  }
 ]

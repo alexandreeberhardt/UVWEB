@@ -1,7 +1,2062 @@
 [
-  { "taux_reussite": 82, "code_uv": "UV01", "id_semestre": "P24" },
-  { "taux_reussite": 75, "code_uv": "UV02", "id_semestre": "A24" },
-  { "taux_reussite": 68, "code_uv": "UV03", "id_semestre": "P25" },
-  { "taux_reussite": 90, "code_uv": "UV04", "id_semestre": "A25" },
-  { "taux_reussite": 77, "code_uv": "UV05", "id_semestre": "A25" }
+  {
+    "taux_reussite": 77,
+    "code_uv": "AC01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 98,
+    "code_uv": "AC02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AC03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 73,
+    "code_uv": "AC05",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 83,
+    "code_uv": "AI01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AI03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 90,
+    "code_uv": "AI04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 83,
+    "code_uv": "AI05",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "AI09",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 87,
+    "code_uv": "AI10",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 96,
+    "code_uv": "AI13",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 92,
+    "code_uv": "AI14",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 94,
+    "code_uv": "AI15",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 90,
+    "code_uv": "AI22",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AI29",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 88,
+    "code_uv": "AI30",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 89,
+    "code_uv": "AI32",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AI34",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AI35",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 83,
+    "code_uv": "AI36",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "AI37",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 95,
+    "code_uv": "AI38",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 89,
+    "code_uv": "AM01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 85,
+    "code_uv": "AM02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 78,
+    "code_uv": "AM03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 88,
+    "code_uv": "AM04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AM08",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 82,
+    "code_uv": "AM11",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 95,
+    "code_uv": "AM14",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AM15",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AM20",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AM21",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 75,
+    "code_uv": "AM22",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AM23",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AM25",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AM27",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AM42",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AM43",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 59,
+    "code_uv": "AOS1",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 87,
+    "code_uv": "AOS2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AOS3",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 93,
+    "code_uv": "AOS4",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AOS5",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "AOS6",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AP00",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AP51",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AP52",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AP53",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AR03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 98,
+    "code_uv": "AR04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ARS1",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 93,
+    "code_uv": "ARS2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ARS3",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 92,
+    "code_uv": "ARS4",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ARS5",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "AV01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "BA03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 95,
+    "code_uv": "BA04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BA05",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BA06",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BA08",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 86,
+    "code_uv": "BA10",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BC01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BG01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 78,
+    "code_uv": "BG02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BG03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BG04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 83,
+    "code_uv": "BG05",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BG07",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BG08",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BG09",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 89,
+    "code_uv": "BL10",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BL16",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BL17",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 90,
+    "code_uv": "BL20",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BM03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 93,
+    "code_uv": "BM04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 96,
+    "code_uv": "BM05",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BM06",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BM07",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BMI0",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BT03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BT07",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "BT09",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "CF04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "CH00",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 95,
+    "code_uv": "CH01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 82,
+    "code_uv": "CH12",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 77,
+    "code_uv": "CM04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 79,
+    "code_uv": "CM05",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "CM06",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 72,
+    "code_uv": "CM11",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 89,
+    "code_uv": "CM12",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 69,
+    "code_uv": "CM13",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "CM71",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "DF03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "DI01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "DI02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "DI04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "DI05",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "DI08",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "DS01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ED01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ED02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 94,
+    "code_uv": "ED04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EG01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 98,
+    "code_uv": "EI02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 96,
+    "code_uv": "EI03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EI04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EI05",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 96,
+    "code_uv": "EN21",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2A1",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2A2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2A3",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2B1",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2B2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2B3",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2C1",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 90,
+    "code_uv": "EP2C2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2C3",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2D2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2E1",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2E2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2F1",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2G1",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2G2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2I1",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2I2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2N2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EP2N3",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EV02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "EV03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 87,
+    "code_uv": "FQ01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "FQ04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 95,
+    "code_uv": "GE10",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 98,
+    "code_uv": "GE13",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 98,
+    "code_uv": "GE15",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 92,
+    "code_uv": "GE20",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 98,
+    "code_uv": "GE21",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 94,
+    "code_uv": "GE22",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 90,
+    "code_uv": "GE25",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 95,
+    "code_uv": "GE26",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 98,
+    "code_uv": "GE27",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 89,
+    "code_uv": "GE28",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 90,
+    "code_uv": "GE36",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 97,
+    "code_uv": "GE37",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "GE38",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "GE39",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "GE40",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "GPF0",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 94,
+    "code_uv": "GPF1",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "GPF2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "GPF3",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "GPF4",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 93,
+    "code_uv": "GPF5",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "HE01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 80,
+    "code_uv": "HE03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "HE10",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 98,
+    "code_uv": "HT01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "HT04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "HT05",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 90,
+    "code_uv": "IA01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IA03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 98,
+    "code_uv": "IA04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IC05",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IC06",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ICX1",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ICX2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ICX3",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ICX6",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IDC1",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 94,
+    "code_uv": "IDC2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IDC3",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 94,
+    "code_uv": "IDC5",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 97,
+    "code_uv": "IDCA",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IDCB",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IDCC",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IDCD",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IDCE",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IDCF",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IDCG",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IDCH",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IDCI",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IDCJ",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IDCK",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IDCL",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 77,
+    "code_uv": "INF1",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 77,
+    "code_uv": "INF2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IQ01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 95,
+    "code_uv": "IS00",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 96,
+    "code_uv": "IS02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "IS04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "IS10",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ISC0",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ISC1",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 79,
+    "code_uv": "ISC2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ISC3",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 89,
+    "code_uv": "ISC4",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ISC5",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 86,
+    "code_uv": "ISCA",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ISCB",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 90,
+    "code_uv": "ISCC",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 97,
+    "code_uv": "ISCD",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ISCE",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 95,
+    "code_uv": "ISCF",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ISCG",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ISCI",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "ISCJ",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LA00",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LA01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 87,
+    "code_uv": "LA02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LA03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LA04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 83,
+    "code_uv": "LA11",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 84,
+    "code_uv": "LA12",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 83,
+    "code_uv": "LA13",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 90,
+    "code_uv": "LA14",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LA20",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 94,
+    "code_uv": "LA21",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 94,
+    "code_uv": "LA22",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 87,
+    "code_uv": "LA23",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LA24",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 70,
+    "code_uv": "LA91",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 87,
+    "code_uv": "LA92",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LA93",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LA94",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LA95",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LB14",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LB24",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 96,
+    "code_uv": "LC14",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LC72",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LC73",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LD14",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LG30",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LG31",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LG32",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 88,
+    "code_uv": "LG33",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LG40",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LG41",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LG42",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LG50",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "LG51",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 92,
+    "code_uv": "LG52",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LG53",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LG60",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LG61",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 90,
+    "code_uv": "LG62",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LG63",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 83,
+    "code_uv": "LH01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LH12",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 90,
+    "code_uv": "LH13",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LH14",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LH15",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 97,
+    "code_uv": "LH16",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LH17",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LH18",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LH30",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "LH40",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 87,
+    "code_uv": "LH50",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 93,
+    "code_uv": "LH60",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 88,
+    "code_uv": "LO21",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 93,
+    "code_uv": "LO23",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 0,
+    "code_uv": "MA09",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 96,
+    "code_uv": "MC02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "MC06",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 79,
+    "code_uv": "MC08",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "MI01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "MI12",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 95,
+    "code_uv": "ML01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "MP03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 71,
+    "code_uv": "MQ01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 85,
+    "code_uv": "MQ03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 78,
+    "code_uv": "MQ06",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "MQ12",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 92,
+    "code_uv": "MQ13",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "MQ16",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "MQ17",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 92,
+    "code_uv": "MQ20",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 94,
+    "code_uv": "MS01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "MS03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 90,
+    "code_uv": "MT01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 81,
+    "code_uv": "MT02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 84,
+    "code_uv": "MT03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 88,
+    "code_uv": "MT09",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 78,
+    "code_uv": "MT11",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 78,
+    "code_uv": "MT12",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "MT1R",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 83,
+    "code_uv": "MT22",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 73,
+    "code_uv": "MT23",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "MT2R",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "MT33",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "MT36",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "MT3R",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 69,
+    "code_uv": "MTX2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 0,
+    "code_uv": "MU02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "MU03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 82,
+    "code_uv": "NF02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 79,
+    "code_uv": "NF04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "NF05",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 85,
+    "code_uv": "NF16",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 90,
+    "code_uv": "NF18",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 92,
+    "code_uv": "NF22",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 93,
+    "code_uv": "NF92",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 93,
+    "code_uv": "NF93",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "NP90",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "PH01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "PH03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "PH04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 97,
+    "code_uv": "PH09",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 98,
+    "code_uv": "PR00",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 88,
+    "code_uv": "PS04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 94,
+    "code_uv": "PS12",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "PS13",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 78,
+    "code_uv": "PS15",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 71,
+    "code_uv": "PS21",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 86,
+    "code_uv": "PS22",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 80,
+    "code_uv": "PS23",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 86,
+    "code_uv": "PS66",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "PS90",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 84,
+    "code_uv": "PS93",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 81,
+    "code_uv": "PS94",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 92,
+    "code_uv": "PVR2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "PVR5",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 73,
+    "code_uv": "PVR6",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "PVR7",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "PVR8",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 95,
+    "code_uv": "RO05",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 88,
+    "code_uv": "RO06",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 94,
+    "code_uv": "RV01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SA12",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SC11",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SC12",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 92,
+    "code_uv": "SC21",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 88,
+    "code_uv": "SC22",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SC23",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 96,
+    "code_uv": "SC25",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 97,
+    "code_uv": "SF01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 93,
+    "code_uv": "SH01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SH03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 85,
+    "code_uv": "SH06",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SH07",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SH40",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 96,
+    "code_uv": "SI01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SI02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SI11",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SI14",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "SI22",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SI24",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SI28",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SL00",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SMC4",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SMC5",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SMT1",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 94,
+    "code_uv": "SMT2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "SMT5",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 80,
+    "code_uv": "SO04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SO05",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SP01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 50,
+    "code_uv": "SP02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SP22",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 86,
+    "code_uv": "SR01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 81,
+    "code_uv": "SR04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 85,
+    "code_uv": "SR07",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 85,
+    "code_uv": "SR08",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SU01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 82,
+    "code_uv": "SV01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 83,
+    "code_uv": "SY01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 47,
+    "code_uv": "SY02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 81,
+    "code_uv": "SY03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SY05",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 93,
+    "code_uv": "SY06",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "SY08",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 87,
+    "code_uv": "SY10",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 88,
+    "code_uv": "SY14",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 88,
+    "code_uv": "SY19",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SY27",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "SY28",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 94,
+    "code_uv": "SY98",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 88,
+    "code_uv": "SY99",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 97,
+    "code_uv": "TA02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 89,
+    "code_uv": "TF01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 85,
+    "code_uv": "TF06",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 92,
+    "code_uv": "TF11",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "TH02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 96,
+    "code_uv": "TH04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "TM02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 89,
+    "code_uv": "TN01",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "TN02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 93,
+    "code_uv": "TN03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 98,
+    "code_uv": "TN04",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 72,
+    "code_uv": "TN06",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 78,
+    "code_uv": "TN08",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 94,
+    "code_uv": "TN12",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "TN14",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 95,
+    "code_uv": "TN20",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "TN21",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 87,
+    "code_uv": "TN22",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "TN23",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "TN25",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "TR91",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "TS02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "TSN1",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 99,
+    "code_uv": "TX00",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "TZ",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "UB02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 94,
+    "code_uv": "UB09",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 89,
+    "code_uv": "UR02",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 93,
+    "code_uv": "UR03",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 85,
+    "code_uv": "UR06",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 93,
+    "code_uv": "UR07",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 100,
+    "code_uv": "UXD2",
+    "id_semestre": "A24"
+  },
+  {
+    "taux_reussite": 91,
+    "code_uv": "WE01",
+    "id_semestre": "A24"
+  }
 ]
