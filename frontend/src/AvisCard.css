@@ -1,0 +1,38 @@
+.avis-card {
+  display: flex;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  margin-bottom: 0.3rem;
+  margin-top: 0.3rem;
+  margin-left: 0.6rem;
+  margin-right: 0.6rem;
+
+  background-color: #ebebeb;
+  font-family: sans-serif;
+
+  max-height: 200px;
+  overflow-y:hidden;
+}
+
+.avis-left {
+  width: 25%;
+  padding: 1rem;
+  border-right: 1px solid #ddd;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.avis-left span {
+  display: block;
+  font-weight: normal;
+  margin-top: 0.25rem;
+}
+
+.avis-right {
+  width: 75%;
+  padding-left: 1rem;
+  line-height: 1.4;
+}
+

@@ -1,0 +1,13 @@
+.avis-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0rem;
+
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  margin: 0.4rem;
+
+  background-color: #dfefef;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  font-family: sans-serif;
+}

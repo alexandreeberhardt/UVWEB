@@ -1,4 +1,7 @@
 import { useEffect, useState } from 'react';
+import AvisCard from './AvisCard.jsx';
+import AvisList from './AvisList';
+import './AvisList.css';
 
 function App() {
   const [uvs, setUvs] = useState([]);
@@ -90,20 +93,26 @@ function UvDetails({ code_uv, onBack }) {
         )}
       </ul>
       <hr />
-
+      
+      
       <h2>Avis</h2>
-      <ul>
-        {uv.avis.length === 0 && <li>Aucun</li>}
-        {uv.avis.map(a =>
-          <li key={a.id_avis}>
-            <b>{a.auteur}</b> ({a.date.slice(0, 10)}) : {a.contenu}
-          </li>
-        )}
-      </ul>
-      <hr />
-
-    </div>
+      <AvisList avis={uv.avis} />
+      
+      <hr />  
+      </div>
+    );
+}
+function DisplayAvis({ avis }) {
+  return (
+    <>
+      {avis.map(a => (
+        <li key={a.id_avis}>
+          <b>{a.auteur}</b> ({a.date.slice(0, 10)}) {a.note}/10 :
+          <br />
+          {a.contenu}
+        </li>
+      ))}
+    </>
   );
 }
-
 export default App;
