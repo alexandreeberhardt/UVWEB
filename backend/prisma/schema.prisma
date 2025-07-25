@@ -80,6 +80,7 @@ model avis {
   contenu      String
   auteur       String
   date         DateTime
+  note         Int      
 
   code_uv      String
   id_semestre  String

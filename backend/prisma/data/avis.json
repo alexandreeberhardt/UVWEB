@@ -1,1 +1,43 @@
-[]
+[
+{
+    "auteur": "User40254",
+    "code_uv": "ED01",
+    "date": "2025-07-16T00:00:00.000Z",
+    "note": 10,
+    "contenu": "NF26 Printemps avec Cyprien GILET (94.34% de réussite)\n\nUV abordant les notions de Data Warehouse : Utilisation de PySpark, traitement puis reporting des données afin des répondre à toutes sortes de questions comme: \"Combien de patients ont plus de 60 ans ?\".\n\nDécoupage de l'évaluation avec:\n- 1 QCM après les 5 semaines de cours : 1/3\n- Un projet en duo (sans les alternants): 1/3\n- Un projet de 6/7 avec une entreprise : 1/3\n\nAprès 5 semaines de cours, les TD/CM sont réservés aux projets. Evidemment cette forme de notation rend l'UV pratique et donc beaucoup plus intéressante (de mon avis) que des cours cours cours entre médian et final.\n\nAu passage, le professeur est MEGA bienveillant ce qui donne envie de taffer l'UV.\n\nUV pour GI IAD, hyper intéressante même si tu ne souhaites pas faire de la warehouse après.\n\n(SY02 vraiment pas nécessaire)\n\nLa biz",
+    "id_semestre":"A00"
+  },
+  {
+    "auteur": "TL_-",
+    "code_uv": "ED01",
+    "date": "2025-07-16T00:00:00.000Z",
+    "note": 3,
+    "contenu": "Merde",
+    "id_semestre":"A00"
+  },
+  {
+    "auteur": "Julbouc",
+    "code_uv": "ED01",
+    "date": "2025-07-16T00:00:00.000Z",
+    "note": 10,
+    "contenu": "si vous kiffez le sport foncez !! zéro boulot, un prof certe un peu spécial au premier abord mais adorable, du sport en veux tu en voilà et du temps pour en faire !! les cm sont un peu long mais ça vaut la peine!! on y apprend et on gagne du temps bref du bonheur\r\nje conseil au printemps comme ça vous irez courir en TD ;)))",
+    "id_semestre":"A00"
+  },
+  {
+    "auteur": "TL_-",
+    "code_uv": "MQ06",
+    "date": "2025-07-16T00:00:00.000Z",
+    "note": 3,
+    "contenu": "Merde",
+    "id_semestre":"A00"
+  },
+  {
+    "auteur": "Julbouc",
+    "code_uv": "SP01",
+    "date": "2025-07-16T00:00:00.000Z",
+    "note": 10,
+    "contenu": "si vous kiffez le sport foncez !! zéro boulot, un prof certe un peu spécial au premier abord mais adorable, du sport en veux tu en voilà et du temps pour en faire !! les cm sont un peu long mais ça vaut la peine!! on y apprend et on gagne du temps bref du bonheur\r\nje conseil au printemps comme ça vous irez courir en TD ;)))",
+    "id_semestre":"A00"
+  }
+
+]

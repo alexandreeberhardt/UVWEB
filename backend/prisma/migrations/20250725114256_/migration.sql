@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "avis" ALTER COLUMN "note" DROP DEFAULT;
