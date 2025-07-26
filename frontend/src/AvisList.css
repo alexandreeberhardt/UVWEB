@@ -10,4 +10,8 @@
   background-color: #dfefef;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
   font-family: sans-serif;
+
+  max-height: 500px;
+  overflow-y:scroll;
 }
+
